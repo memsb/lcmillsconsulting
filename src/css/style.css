@@ -1,0 +1,277 @@
+h1 {
+    size: 16pt;
+    text-align: center;
+    padding: 1em 0;
+    color: #9f334a;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 22pt;
+    color: #ff9200;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
+    color: #ff9200;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14pt;
+    color: #bc6c01;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+p {
+    color: #bab9b9;
+}
+
+a {
+    color: #5d6166;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+ul {
+    padding-left: 20px;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 10px;
+    font: 300 15px/20px "Open Sans", Arial, sans-serif;
+}
+
+li:before {
+    font-family: 'Font Awesome 5 Free';
+    content: '\f111';
+    color: #ff9200;
+    margin-right: 12px;
+}
+
+@media (max-width: 978px) {
+    .container {
+        padding: 0;
+        margin: 0;
+    }
+
+    footer .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .section {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+.blog-entry {
+    display: inline-block;
+    padding-bottom: 1em;
+    color: #5d6166;
+}
+
+.author {
+    margin-left: 1em;
+}
+
+.spacer {
+    height: 4em;
+    background-color: #ffffff;
+}
+
+.btn-default {
+    border-radius: 0;
+}
+
+#logo {
+    color: #9f334a;
+    float: left;
+    padding-right: 1.5em;
+    padding-bottom: 1em;
+    line-height: 1;
+}
+
+#title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    color: #9f334a;
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-top: 34px;
+}
+
+#menu a.btn-default {
+    height: 4em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #9f334a;
+    border-color: #8f2d42;
+    padding-top: 1.2em;
+}
+
+@media (max-width: 378px) {
+    #menu a.btn-default {
+        font-weight: 400;
+        font-size: 10px;
+    }
+}
+
+#menu .btn-group-justified {
+    table-layout: auto;
+}
+
+#middle {
+    background-color: #f7f8f8;
+}
+
+#tag-line {
+    text-align: center;
+    padding-top: 2em;
+    font-size: 14pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.section {
+    padding-bottom: 2em;
+}
+
+.summary {
+    margin-top: 2em;
+}
+
+.summary i {
+    font-size: 50pt;
+    color: gray;
+}
+
+.more-info:hover {
+    background: #000;
+    color: #9f334a;
+}
+
+.button {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #9f334a;
+    border: none;
+}
+
+.laura img {
+    margin-top: 20px;
+    max-width: 90%;
+}
+
+#lower {
+    background-color: #ffffff;
+    padding-bottom: 1em;
+}
+
+#lower .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#lower .row {
+    margin: 0;
+}
+
+.services {
+    padding-left: 0;
+}
+
+.services h2 {
+    color: #48474d;
+}
+
+.body {
+    background-color: #f7f8f8;
+    padding: 2% 4% 4% 4%;
+}
+
+.blog {
+    min-height: 10em;
+}
+
+.date {
+    text-align: center;
+}
+
+.date span {
+    font-weight: 300;
+    font-size: 35px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    display: inline-block;
+    color: #9f334a;
+    margin-left: 3px;
+}
+
+.staff {
+    padding: 1em 0;
+    clear: both;
+}
+
+.bio {
+    padding-left: 3em;
+}
+
+footer {
+    padding-top: 1em;
+    padding-bottom: 3em;
+    background-color: #4d5156;
+    color: lightgrey;
+}
+
+footer p {
+    font-size: 13pt;
+    margin: 0;
+}
+
+footer a {
+    color: #3e9def;
+}
+
+.contact {
+    margin-top: 10px;
+}
+
+#contact {
+    /*width: 500px;*/
+    padding: 2em 0 2em 0;
+}
+
+.links a {
+    font-size: 36pt;
+    color: #000000;
+    margin-right: 3px;
+}
+
+.links a:hover {
+    color: #9f334a;
+}
