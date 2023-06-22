@@ -13,6 +13,7 @@ module.exports = function(grunt) {
                     "dist/blog.html": "src/blog.html",
                     "dist/contact.html": "src/contact.html",
                     "dist/services.html": "src/services.html",
+                    "dist/guides.html": "src/guides.html",
                 }
             }
         },
