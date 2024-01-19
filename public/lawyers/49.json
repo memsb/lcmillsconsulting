@@ -1,0 +1,7398 @@
+{
+  "lawyers": [
+    {
+      "name": "Aaron Payas",
+      "firm": "Hassans",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Adam Chernichaw",
+      "firm": "Allen & Overy LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Adam Finlay",
+      "firm": "McCann FitzGerald LLP",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Adrian Ang",
+      "firm": "Allen & Gledhill LLP",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Adrianus Schoorl",
+      "firm": "White & Case LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Adrián Calvo",
+      "firm": "Bird & Bird",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Adrián López",
+      "firm": "Nader Hayaux & Goebel",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ahmed Thabet",
+      "firm": "The Bench FZE",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Akihiro Shiba",
+      "firm": "Nishimura & Asahi",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Akvilė Bosaitė",
+      "firm": "COBALT",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Alan Cohn",
+      "firm": "Steptoe & Johnson LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Alastair Mitton",
+      "firm": "Womble Bond Dickinson UK LLP",
+      "location": "South West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Aleksandra Bańkowska",
+      "firm": "PwC Legal Żelaźnicki sp.k.",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Alessandro Portolano",
+      "firm": "Chiomenti",
+      "location": "Italy",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Alexander Drylewski",
+      "firm": "Skadden, Arps, Slate, Meagher & Flom LLP & Affiliates",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Alexander Gebhard",
+      "firm": "Schalast Law | Tax",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alexander Vogel",
+      "firm": "MLL Legal",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alexander Vogel",
+      "firm": "MLL Legal",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alexei Bonamin",
+      "firm": "TozziniFreire Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Alfonso Martínez Bejarano",
+      "firm": "Baker McKenzie",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alvaro Garrido Mesa",
+      "firm": "Loyens & Loeff",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Amanda Hulme",
+      "firm": "Addleshaw Goddard LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Amir Raz",
+      "firm": "Goldfarb Gross Seligman",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Amit Dat",
+      "firm": "FISCHER (FBC & Co.)",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Ana Badour",
+      "firm": "McCarthy Tétrault LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Anat Even-Chen",
+      "firm": "Barnea Jaffa Lande & Co",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Anders Bergsten",
+      "firm": "Mannheimer Swartling",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Andreas Dehio",
+      "firm": "Linklaters",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Andreas Glarner",
+      "firm": "MME Legal | Tax | Compliance",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andreas Glarner",
+      "firm": "MME Legal | Tax | Compliance",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andreas Löfholm",
+      "firm": "Setterwalls",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Up and Coming",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Andreas Walter",
+      "firm": "Schalast Law | Tax",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Andres Egaña",
+      "firm": "Egaña Abogados",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Andrew Galvin",
+      "firm": "HWL Ebsworth Lawyers",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Andrew J Zammit",
+      "firm": "GVZH Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Andrew Jowett",
+      "firm": "Appleby",
+      "location": "Jersey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andrew Lorentz",
+      "firm": "Davis Wright Tremaine LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Andrew Moyle",
+      "firm": "Latham & Watkins",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "André Abrantes",
+      "firm": "PLMJ",
+      "location": "Portugal",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Andrés Nieto",
+      "firm": "Norton Rose Fulbright",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Angela Angelovska-Wilson",
+      "firm": "DLx Law",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Angela Itzikowitz",
+      "firm": "ENSafrica",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Angus McLean",
+      "firm": "Simmons & Simmons LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Anirudh Rastogi",
+      "firm": "Ikigai Law",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Anne Hakvoort",
+      "firm": "FG Lawyers",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Anne-Marie Nicolas",
+      "firm": "Loyens & Loeff",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Annette Printz Nielsen",
+      "firm": "Bird & Bird",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Anthony Gakuru",
+      "firm": "ENSafrica (NBMA Advocates LLP)",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Anthony Provasoli",
+      "firm": "Hassans",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Anthony de Fazekas",
+      "firm": "Norton Rose Fulbright",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Antonio Ghio",
+      "firm": "Fenech & Fenech Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Antti Innanen",
+      "firm": "Dottir Attorneys",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Antti Perli",
+      "firm": "Ellex Raidla",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Anu Tiwari",
+      "firm": "Cyril Amarchand Mangaldas",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ariel Yosefi",
+      "firm": "Herzog Fox & Neeman",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Arnaud Grünthaler",
+      "firm": "Fieldfisher",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Arno Voerman",
+      "firm": "Dentons",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Artur Granicki",
+      "firm": "Kopeć & Zaborowski (KKZ)",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Arturo Perez Estrada",
+      "firm": "Greenberg Traurig, S.C.",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Arturo Pérez-Estrada",
+      "firm": "Greenberg Traurig, S.C.",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Arun Srivastava",
+      "firm": "Paul Hastings (Europe) LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Arvin Abraham",
+      "firm": "McDermott Will & Emery UK LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Arvin Abraham",
+      "firm": "McDermott Will & Emery UK LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Arvin Abraham",
+      "firm": "McDermott Will & Emery UK LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Asad Salahuddin",
+      "firm": "Lex Legal Practice",
+      "location": "Pakistan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Augustas Klezys",
+      "firm": "Sorainen",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Avimukt Dar",
+      "firm": "IndusLaw",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Axel Schiemann",
+      "firm": "Latham & Watkins LLP",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Babajimi Ayorinde",
+      "firm": "TNP - The New Practice",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Barrie VanBrackle",
+      "firm": "Latham & Watkins LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Bart Bierman",
+      "firm": "Finnius",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Beata Balas-Noszczyk",
+      "firm": "Hogan Lovells (Warszawa) LLP",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Behnam Dayanim",
+      "firm": "Orrick, Herrington & Sutcliffe LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ben Johnson",
+      "firm": "Squire Patton Boggs",
+      "location": "North West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Ben Kingsley",
+      "firm": "Slaughter and May",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Ben Regnard-Weinrabe",
+      "firm": "Allen & Overy LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ben Regnard-Weinrabe",
+      "firm": "Allen & Overy LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Benjamin Gaw",
+      "firm": "Drew & Napier LLC",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Benjamin May",
+      "firm": "ARAMIS Société d'Avocats",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Benjamin Naftalis",
+      "firm": "Latham & Watkins LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Benoît Vandervelde",
+      "firm": "CMS",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Berry van Wijk",
+      "firm": "Houthoff",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Bill Fuggle",
+      "firm": "Baker McKenzie",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Bora Yazıcıoğlu",
+      "firm": "YAZICIOGLU Legal",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Bradley Kruger",
+      "firm": "Ogier",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Bradley Rice",
+      "firm": "Ashurst",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Up and Coming",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Brian A Meenagh",
+      "firm": "Latham & Watkins LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Brian Klein",
+      "firm": "Waymaker LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Brian Klein",
+      "firm": "Waymaker LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Bridget King",
+      "firm": "DLA Piper South Africa Services (Pty) Ltd",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Brigitta Varadinek",
+      "firm": "Lindenpartners Partnerschaft von Rechtsanwälten",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Bruno Balduccini",
+      "firm": "Pinheiro Neto Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Burak Özdağıstanlı",
+      "firm": "Ozdagistanli Ekici Attorney Partnership",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Burcu Tuzcu Ersin",
+      "firm": "Moroğlu Arseven",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Burr Eckstut",
+      "firm": "White & Case LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Byron Rooney",
+      "firm": "Davis Polk & Wardwell LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Callum Sinclair",
+      "firm": "Burness Paull",
+      "location": "Scotland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Camilla Wollan",
+      "firm": "Advokatfirma DLA Piper",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Carlos Valderrama Narváez",
+      "firm": "Legal Paradox",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Caroline Clemetson",
+      "firm": "Schellenberg Wittmer Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Caroline Krassen",
+      "firm": "Advokatfirman Vinge KB",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Star Associates"
+      }
+    },
+    {
+      "name": "Carsten Kociok",
+      "firm": "Greenberg Traurig Germany, LLP",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Carsten Loesing",
+      "firm": "White & Case LLP",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Caspar Riekerk",
+      "firm": "Finnius",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Casper Riekerk",
+      "firm": "Finnius",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Catherine Brennan",
+      "firm": "Hudson Cook LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Catherine Brennan",
+      "firm": "Hudson Cook LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Catherine Kariuki",
+      "firm": "TripleOKLaw Advocates",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Cathie-Rosalie Joly",
+      "firm": "Bird & Bird",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Chad Bayne",
+      "firm": "Osler, Hoskin & Harcourt LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Charmian Holmes",
+      "firm": "Hamilton Locke",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Cherise Abela Grech",
+      "firm": "GTG Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Chia Ling Koh",
+      "firm": "OC Queen Street",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Chris Daniel",
+      "firm": "Paul Hastings LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Chris Duncan",
+      "firm": "Carey Olsen",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Chris Finney",
+      "firm": "Fox Williams LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "Chris Griffin",
+      "firm": "Carey Olsen",
+      "location": "Jersey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Chris Witeck",
+      "firm": "Orrick, Herrington & Sutcliffe LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Christian Schmies",
+      "firm": "Hengeler Mueller",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Christian Storck",
+      "firm": "Linklaters",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Christine Ing",
+      "firm": "McCarthy Tétrault LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Christoff Pienaar",
+      "firm": "Webber Wentzel",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Christopher Austin",
+      "firm": "Paul Hastings LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Christopher Giancarlo",
+      "firm": "Willkie Farr & Gallagher LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Christopher Hill",
+      "firm": "Deloitte Legal",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Christopher Humphries",
+      "firm": "Stuarts Walker Hersant Humphries",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Christopher Jessup",
+      "firm": "A&L Goodbody",
+      "location": "Northern Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Christopher Martin",
+      "firm": "A&L Goodbody",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Clair Wermers",
+      "firm": "CMS",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Up and Coming",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Claire Milne",
+      "firm": "Appleby",
+      "location": "Isle of Man",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Claire Wivell Plater",
+      "firm": "Hamilton Locke",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "Claire Wivell Plater",
+      "firm": "The Fold Legal Pty Ltd",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Senior Statespeople",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Claudio Magliona",
+      "firm": "Magliona Abogados",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Colin Lloyd",
+      "firm": "Sullivan & Cromwell LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Cornelia Stengel",
+      "firm": "Kellerhals Carrard",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Cornelia Stengel",
+      "firm": "Kellerhals Carrard",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Corrado Angelelli",
+      "firm": "Greenberg Traurig Santa Maria",
+      "location": "Italy",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Craig Kennedy",
+      "firm": "Bowmans",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Cristian Reyes",
+      "firm": "Aninat Abogados",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Cristina Carrascosa",
+      "firm": "Pinsent Masons",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Crystal N. Kaldjob",
+      "firm": "Morrison Foerster",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "Up and Coming",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Cyrus Pocha",
+      "firm": "Freshfields Bruckhaus Deringer",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Cyrus Pocha",
+      "firm": "Freshfields Bruckhaus Deringer",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "Damilola Oyebayo",
+      "firm": "Olaniwun Ajayi LP",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Damilola Salawu",
+      "firm": "Olaniwun Ajayi LP",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Daniel Flühmann",
+      "firm": "Bär & Karrer Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Daniel Haeberli",
+      "firm": "Homburger",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Daniel Knight",
+      "firm": "K&L Gates",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Daniel Levi",
+      "firm": "Beccar Varela",
+      "location": "Argentina",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Daniel Lundqvist",
+      "firm": "Advokatfirman Kahn Pedersen",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Daniel Resas",
+      "firm": "YPOG",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Dario de Martino",
+      "firm": "Allen & Overy LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "David Beam",
+      "firm": "Mayer Brown LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "David Concannon",
+      "firm": "Goodwin",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "David E Teitelbaum",
+      "firm": "Sidley Austin LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "David E Teitelbaum",
+      "firm": "Sidley Austin LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "David Felsenthal",
+      "firm": "Clifford Chance LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "David Frydlinger",
+      "firm": "Cirio Advokatbyrå AB",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "David Futter",
+      "firm": "Ashurst",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "David Gardner",
+      "firm": "TLT LLP",
+      "location": "North West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "David Goodbrand",
+      "firm": "Burness Paull",
+      "location": "Scotland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "David Jamieson",
+      "firm": "Osler, Hoskin & Harcourt LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Up and Coming",
+        "2023": ""
+      }
+    },
+    {
+      "name": "David Mathews",
+      "firm": "Ogier",
+      "location": "British Virgin Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "David Moalem",
+      "firm": "Bech-Bruun",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "David Roche",
+      "firm": "ARAMIS Société d'Avocats",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "David Villa",
+      "firm": "DWF-RCD",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "David Whitaker",
+      "firm": "DLA Piper LLP (US)",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Davidson Oturu",
+      "firm": "ǼLEX",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Dawid de Villiers",
+      "firm": "Webber Wentzel",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Dax Hansen",
+      "firm": "Perkins Coie LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Deborah Hutton",
+      "firm": "Eversheds Sutherland",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Diane Bugeja",
+      "firm": "Camilleri Preziosi",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Diego Ballon Ossio",
+      "firm": "Clifford Chance LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Diego Rodríguez",
+      "firm": "CMS Carey & Allende",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Diogo Pereira Duarte",
+      "firm": "Abreu Advogados",
+      "location": "Portugal",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Divya Abrol Gambhir",
+      "firm": "Al Tamimi & Company",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Dominic Indokhomi",
+      "firm": "Bowmans (Coulson Harney)",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Dominic Rebelo",
+      "firm": "Anjarwalla & Khanna",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Dominique Stucki",
+      "firm": "Cornet Vincent Segurel",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Donald Mosher",
+      "firm": "Schulte Roth & Zabel LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Donatas Šliora",
+      "firm": "ADON legal",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Douglas J Landy",
+      "firm": "White & Case LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Douglas K. Yatter",
+      "firm": "Latham & Watkins LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Duncan Douglass",
+      "firm": "Alston & Bird LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Eduardo Flores",
+      "firm": "White & Case SC",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Edwin Jacobs",
+      "firm": "Timelex",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Elina Varendi",
+      "firm": "TGS Baltic",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Elizabeth Sale",
+      "firm": "Osler, Hoskin & Harcourt LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Ellen T. Berge",
+      "firm": "Venable LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Emily Reid",
+      "firm": "Hogan Lovells",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Emily Southon",
+      "firm": "DLA Piper LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Emma Stuart-Beck",
+      "firm": "Advokatfirman Vinge KB",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Eric Romba",
+      "firm": "Osborne Clarke Rechtsanwälte Steuerberater Partnerschaft mbB",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Eric Stupp",
+      "firm": "Bär & Karrer Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Erik Valgaeren",
+      "firm": "Stibbe",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Espen Tøndel",
+      "firm": "Advokatfirmaet Simonsen Vogt Wiig",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Etelka Bogardi",
+      "firm": "Norton Rose Fulbright",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Etienne Dessy",
+      "firm": "Linklaters",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Eva Suduiko",
+      "firm": "COBALT",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Eve England",
+      "firm": "Eversheds Sutherland",
+      "location": "Wales",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Eyal Dotan",
+      "firm": "Meitar | Law Offices",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Fabien Aepli",
+      "firm": "Mangeat",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Fedor Poskriakov",
+      "firm": "Lenz & Staehelin",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Fernando Mirandez Del Nero Gomes",
+      "firm": "Pinheiro Neto Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Fernando Zunzunegui",
+      "firm": "Zunzunegui Abogados",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Filip Van Elsen",
+      "firm": "Allen & Overy LLP",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Fiona Ghosh",
+      "firm": "Addleshaw Goddard LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Florian Reul",
+      "firm": "Linklaters",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Star Associates",
+        "2022": "Star Associates",
+        "2023": "Star Associates"
+      }
+    },
+    {
+      "name": "Folake Elias Adebowale",
+      "firm": "Udo Udoma & Belo-Osagie",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Francisco Guzmán",
+      "firm": "Carey",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Francisco Javier Ramírez",
+      "firm": "Deloitte Legal SLP",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Frank Müller",
+      "firm": "Annerton",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Frédéric Bellanca",
+      "firm": "Dartevelle Dubest Bellanca",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Frédérick Lacroix",
+      "firm": "Clifford Chance Europe LLP",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Gabriel Gómez Giglio",
+      "firm": "Baker McKenzie",
+      "location": "Argentina",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Gabrielle Lowe",
+      "firm": "White & Case LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Gary Cywie",
+      "firm": "Elvinger Hoss Prussen",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Gary DeWaal",
+      "firm": "Katten",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Gavin Raftery",
+      "firm": "Baker McKenzie (Gaikokuho Joint Enterprise)",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Gavin Smith",
+      "firm": "Allens",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Gediminas Rečiūnas",
+      "firm": "WALLESS",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Giancarllo Melito",
+      "firm": "Barcellos Tucunduva Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Gijs Hamelijnck",
+      "firm": "Houthoff",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Gil White",
+      "firm": "Herzog Fox & Neeman",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Eminent Practitioners"
+      }
+    },
+    {
+      "name": "Gonçalo Castro Ribeiro",
+      "firm": "DLA Piper ABBC",
+      "location": "Portugal",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Grace Chong",
+      "firm": "Gibson, Dunn & Crutcher LLP",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Grant P Fondo",
+      "firm": "Goodwin",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Grant P Fondo",
+      "firm": "Goodwin",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Gregory Lisa",
+      "firm": "Hogan Lovells US LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Guadalupe Sampedro",
+      "firm": "Cooley LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Guadalupe Sampedro",
+      "firm": "Cooley LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Guy Potel",
+      "firm": "White & Case LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Guy Potel",
+      "firm": "White & Case LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 5",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Gye-Jeong Kim",
+      "firm": "Kim & Chang",
+      "location": "South Korea",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Hagen Rooke",
+      "firm": "Reed Smith",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Hanna-Mari Manninen",
+      "firm": "Dittmar & Indrenius",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Hannah Glass",
+      "firm": "King & Wood Mallesons",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Hannah Meakin",
+      "firm": "Norton Rose Fulbright",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Hans Kuhn",
+      "firm": "Wicki Partners AG",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Harry Eddis",
+      "firm": "Linklaters",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Harry Eddis",
+      "firm": "Linklaters",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Haruo Narimoto",
+      "firm": "TMI Associates",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Henri Wagner",
+      "firm": "Allen & Overy Luxembourg",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Hiroyuki Totake",
+      "firm": "Link Partners",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Hoseok Jung",
+      "firm": "SEUM Law",
+      "location": "South Korea",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Hubert de Vauplane",
+      "firm": "Kramer Levin Naftalis & Frankel LLP",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ian Gauci",
+      "firm": "GTG Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ido Shomrony",
+      "firm": "Shibolet",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Idoya Arteagabeitia",
+      "firm": "Pinsent Masons",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Ieva Dosinaitė",
+      "firm": "Ellex Valiunas",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ignacio Pera",
+      "firm": "Dentons Larraín Rencoret SpA",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ignasi Costas",
+      "firm": "DWF-RCD",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Iiris Kivikari",
+      "firm": "Dittmar & Indrenius",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Inga Karulaitytė-Kvainauskienė",
+      "firm": "ECOVIS ProventusLaw",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Isa Alade",
+      "firm": "Banwo & Ighodalo",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Itay Bracha",
+      "firm": "Bracha & Co.",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jaakko Lindgren",
+      "firm": "Dottir Attorneys",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jack Hardman",
+      "firm": "Clifford Chance LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jacob Høeg Madsen",
+      "firm": "Kromann Reumert",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jacqueline D Shinfield",
+      "firm": "Blake, Cassels & Graydon LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jacqui Hatfield",
+      "firm": "Orrick, Herrington & Sutcliffe LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jacqui Hatfield",
+      "firm": "Orrick, Herrington & Sutcliffe LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "Jai R. Massari",
+      "firm": "Davis Polk & Wardwell LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jaime Bofill",
+      "firm": "CMS",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jakub Falkowski",
+      "firm": "Baker McKenzie",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "James Burnie",
+      "firm": "gunnercooke",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "James Burnie",
+      "firm": "gunnercooke",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Up and Coming",
+        "2023": ""
+      }
+    },
+    {
+      "name": "James Debono",
+      "firm": "Ganado Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "James Kim",
+      "firm": "Troutman Pepper",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "James Russell",
+      "firm": "Norton Rose Fulbright",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 5",
+        "2023": ""
+      }
+    },
+    {
+      "name": "James Stull",
+      "firm": "King & Spalding LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jan Byrski",
+      "firm": "Traple Konarski Podrecki & Partners",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jan Schmidt-Seidl",
+      "firm": "Lindenpartners Partnerschaft von Rechtsanwälten",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jana Essebier",
+      "firm": "VISCHER",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jana Essebier",
+      "firm": "VISCHER",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Janet Othero",
+      "firm": "TripleOKLaw Advocates",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Janne Lauha",
+      "firm": "Castrén & Snellman",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jasha Sprecher",
+      "firm": "NautaDutilh",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Jason Gottlieb",
+      "firm": "Morrison Cohen LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jason Gottlieb",
+      "firm": "Morrison Cohen LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Javi Triay",
+      "firm": "Triay Lawyers",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jay Gomez",
+      "firm": "Triay Lawyers",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jeffrey A Brill",
+      "firm": "Skadden, Arps, Slate, Meagher & Flom LLP & Affiliates",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jeffrey D Silberman",
+      "firm": "Morrison Foerster",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jeffrey Greenbaum",
+      "firm": "Hogan Lovells Studio Legale",
+      "location": "Italy",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jeffrey Kirk",
+      "firm": "Appleby",
+      "location": "British Virgin Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jens Kunz",
+      "firm": "Noerr",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Jesús Mardomingo",
+      "firm": "Dentons",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Joacim Johannesson",
+      "firm": "Setterwalls",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joan Carette",
+      "firm": "Simont Braun",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joana Baublytė-Kulvietė",
+      "firm": "WALLESS",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joby Beretta",
+      "firm": "The Bench FZE",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Joe Cutler",
+      "firm": "Perkins Coie LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joel Cox",
+      "firm": "DLA Piper Australia",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Joel Feinberg",
+      "firm": "Sidley Austin LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joel Telpner",
+      "firm": "Sullivan & Worcester",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joey Garcia",
+      "firm": "ISOLAS LLP",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Johannes de Jong",
+      "firm": "Osborne Clarke NV",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "John Casanova",
+      "firm": "Sidley Austin LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "John Casanova",
+      "firm": "Sidley Austin LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "John O'Connor",
+      "firm": "William Fry",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "John Salmon",
+      "firm": "Hogan Lovells",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "John Salmon",
+      "firm": "Hogan Lovells",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "John Syekei",
+      "firm": "Bowmans (Coulson Harney)",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jon Snade",
+      "firm": "Browne Jacobson LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jon Snade",
+      "firm": "Browne Jacobson LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "Jonathan Emmanuel",
+      "firm": "Bird & Bird",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jonathan Garcia",
+      "firm": "ISOLAS LLP",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jonathan Irom",
+      "firm": "Meitar | Law Offices",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jonathan Kewley",
+      "firm": "Clifford Chance LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jonathan Rogers",
+      "firm": "White & Case LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jonathan Segal",
+      "firm": "Fox Williams LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jorge Canta",
+      "firm": "Cuatrecasas",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jorge Ferrer",
+      "firm": "finReg360",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joris van Horzen",
+      "firm": "Kennedy Van der Laan",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jorma Yli-Jaakkola",
+      "firm": "Lexia",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jose Saras",
+      "firm": "Preiskel & Co LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joseph Beashel",
+      "firm": "Matheson LLP",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joseph Borg",
+      "firm": "WH Partners",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joseph Evans",
+      "firm": "McDermott Will & Emery LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joseph Perkins",
+      "firm": "Orrick, Herrington & Sutcliffe LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Joshua Ashley Klayman",
+      "firm": "Linklaters",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Joshua Hogan",
+      "firm": "McCann FitzGerald LLP",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "José Luis Lorente Howell",
+      "firm": "Bird & Bird",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "José María Olivares Blanco",
+      "firm": "finReg360",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Joy Lam",
+      "firm": "Baker McKenzie",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Juan Diehl Moreno",
+      "firm": "Marval O'Farrell Mairal",
+      "location": "Argentina",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Juan Lopez-Frias",
+      "firm": "Garrigues",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Juan López-Frías",
+      "firm": "Garrigues",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Judith Rinearson",
+      "firm": "K&L Gates",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jukka Lång",
+      "firm": "Dittmar & Indrenius",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Julian Bajada",
+      "firm": "Camilleri Preziosi",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Julian Cunningham-Day",
+      "firm": "Linklaters",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Jung Min Lee",
+      "firm": "Kim & Chang",
+      "location": "South Korea",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Karan Aswani",
+      "firm": "ISOLAS LLP",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Karen Man",
+      "firm": "Baker McKenzie",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Karen Ubell",
+      "firm": "Goodwin",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Karim Fawaz",
+      "firm": "KN Legal",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Karolina Piotrowska-Andryszczyk",
+      "firm": "Kondracki Celej",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Karsten Wöckener",
+      "firm": "White & Case",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Katarzyna Szczudlik",
+      "firm": "SSW Pragmatic Solutions",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Kate Johnson",
+      "firm": "Osborne Clarke LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Kate Scott",
+      "firm": "Clifford Chance LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Kate Scott",
+      "firm": "Clifford Chance LLP",
+      "location": "UK-wide",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Katherine Garrood",
+      "firm": "Appleby",
+      "location": "Isle of Man",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Kağan Dora",
+      "firm": "Balcıoğlu Selçuk Ardıyok Keki Attorney Partnership (BASEAK)",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Keith Waine",
+      "firm": "Dillon Eustace",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Kelly Fenech",
+      "firm": "Michael Kyprianou & Co. LLC",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Ken Kawai",
+      "firm": "Anderson Mori & Tomotsune",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Kenneth Oh",
+      "firm": "Dentons Rodyk & Davidson LLP",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kerem Turunç",
+      "firm": "Turunç",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Kilian Schärli",
+      "firm": "MLL Legal",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kilian Schärli",
+      "firm": "MLL Legal",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kim Phan",
+      "firm": "Troutman Pepper",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Kirsten Kern",
+      "firm": "Bowmans",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Kirsti Pent",
+      "firm": "TGS Baltic",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Kjersti T Trøbråten",
+      "firm": "Wiersholm ",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Klaus Henrik Wiese-Hansen",
+      "firm": "Advokatfirmaet Schjødt",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Koichiro Ohashi",
+      "firm": "Greenberg Traurig Tokyo Law Offices",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kokila Alagh",
+      "firm": "Karm Legal Consultants",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Konrad Stolarski",
+      "firm": "FinTaxLegal",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kristel Raidla-Talur",
+      "firm": "COBALT",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Kristi Swartz",
+      "firm": "DLA Piper Hong Kong",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Kristian Karlsson",
+      "firm": "Dittmar & Indrenius",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kristiina Hirva",
+      "firm": "DLA Piper Finland",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Krzysztof Korus",
+      "firm": "DLK Legal",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Krzysztof Wojdyło",
+      "firm": "Wardyński & Partners",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kuba Ruiz",
+      "firm": "Bird & Bird Szepietowski i wspólnicy sp. k.",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Larissa Silverentand",
+      "firm": "NautaDutilh",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Lars Lüneborg",
+      "firm": "Horten",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Lars Schlichting",
+      "firm": "Kellerhals Carrard",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Laura E Jehl",
+      "firm": "Willkie Farr & Gallagher LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Laurel L Rimon",
+      "firm": "Paul Hastings LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Leonard Bonello",
+      "firm": "Ganado Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Lewis Cohen",
+      "firm": "DLx Law",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Lilya Tessler",
+      "firm": "Sidley Austin LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Lisa J Sotto",
+      "firm": "Hunton Andrews Kurth LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ljubica Vodanovic",
+      "firm": "Vodanovic Legal",
+      "location": "Peru",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Loreta Andziulytė",
+      "firm": "ECOVIS ProventusLaw",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Lori Stein",
+      "firm": "McCarthy Tétrault LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Lorna Smith",
+      "firm": "Maples Group",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Louis Jonker",
+      "firm": "Van Doorne",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Louise McNabola",
+      "firm": "William Fry",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Lowell D Ness",
+      "firm": "Perkins Coie LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Luca Benvenuto",
+      "firm": "ALMA STA",
+      "location": "Italy",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Lucy Frew",
+      "firm": "Walkers",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Luis Ernesto Marín",
+      "firm": "Porto Legal",
+      "location": "Peru",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Luis de la Peña",
+      "firm": "Garrigues",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Luka Müller-Studer",
+      "firm": "MME Legal | Tax | Compliance",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Lukas Morscher",
+      "firm": "Lenz & Staehelin",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Luís Roquette Geraldes",
+      "firm": "Morais Leitão, Galvão Teles, Soares da Silva & Associados",
+      "location": "Portugal",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mahesh Acharya",
+      "firm": "ENSafrica (NBMA Advocates LLP)",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Malcolm Falzon",
+      "firm": "Camilleri Preziosi",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Marc J Zwillinger",
+      "firm": "ZwillGen PLLC",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Marc Mouton",
+      "firm": "Arendt & Medernach",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Marcelo Padua Lima",
+      "firm": "Cascione Pulino Boulos Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Marcin Olechowski",
+      "firm": "Sołtysiński Kawecki & Szlęzak",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Marco Zechini",
+      "firm": "ALMA STA",
+      "location": "Italy",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Marcus Fonseca",
+      "firm": "TozziniFreire Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Margo Tank",
+      "firm": "DLA Piper LLP (US)",
+      "location": "USA",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Margo Tank",
+      "firm": "DLA Piper LLP (US)",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Marian Scheele",
+      "firm": "Clifford Chance LLP",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Marie Chowdhry",
+      "firm": "Pinsent Masons",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Mariona Pericas Estrada",
+      "firm": "finReg360",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Star Associates"
+      }
+    },
+    {
+      "name": "Mark Adair",
+      "firm": "Mason Hayes & Curran LLP",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Mark B Stein",
+      "firm": "Morgan, Lewis & Bockius LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mark Radcliffe",
+      "firm": "DLA Piper LLP (US)",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mark Robinson",
+      "firm": "Herbert Smith Freehills",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mark Simpson",
+      "firm": "Baker McKenzie",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mark Simpson",
+      "firm": "Baker McKenzie",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Mark Simpson",
+      "firm": "Baker McKenzie",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Marko Kairjak",
+      "firm": "Ellex Raidla",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Markus Benzing",
+      "firm": "Freshfields Bruckhaus Deringer",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Markus Krüger",
+      "firm": "Latham & Watkins LLP",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Marta Stanisławska",
+      "firm": "Bird & Bird Szepietowski i wspólnicy sp. k.",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Martijn Schoonewille",
+      "firm": "Loyens & Loeff",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Martin Bartlam",
+      "firm": "DLA Piper LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Martin Cook",
+      "firm": "Burges Salmon LLP",
+      "location": "South West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Martin Hess",
+      "firm": "Künzi Hess MacNab Attorneys at Law",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Martin Hess",
+      "firm": "Künzi Hess MacNab Attorneys at Law",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Martin Mois",
+      "firm": "Aninat Abogados",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Martin Von Haller Grønbæk",
+      "firm": "Bird & Bird",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "María Gracia Rubio",
+      "firm": "RdC Abogados",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Masakazu Masujima",
+      "firm": "Mori Hamada & Matsumoto",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mateusz Blocher",
+      "firm": "Sołtysiński Kawecki & Szlęzak",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Mateusz Ordyk",
+      "firm": "Deloitte Legal",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mathew Chacko",
+      "firm": "Spice Route Legal",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matt Taber",
+      "firm": "Harney Westwood & Riegels",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matthew Gough",
+      "firm": "Eversheds Sutherland",
+      "location": "Wales",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matthew Gough",
+      "firm": "Eversheds Sutherland",
+      "location": "South West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Matthew Shanahan",
+      "firm": "Norton Rose Fulbright",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Matthias Terlau",
+      "firm": "GÖRG Partnerschaft von Rechtsanwälten mbB",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mattias Anjou",
+      "firm": "Advokatfirman Hammarskiöld & Co AB",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mattias Vilhelm Warnøe Nielsen",
+      "firm": "Moalem Weitemeyer",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Up and Coming",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Matías Apparcel",
+      "firm": "Apparcel Uriarte Vassallo Abogados",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matías Langevín",
+      "firm": "HD Legal",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matías Zegers",
+      "firm": "DLA Piper Chile",
+      "location": "Chile",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Max Ganado",
+      "firm": "Ganado Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Senior Statespeople",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "Mei Mei Chong",
+      "firm": "Raja, Darryl & Loh",
+      "location": "Malaysia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Melissa Lim",
+      "firm": "Walkers",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Michael Bacina",
+      "firm": "Piper Alderman",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Michael Camphausen",
+      "firm": "Camphausen Co",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Michael Jünemann",
+      "firm": "Bird & Bird",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Michael Nonaka",
+      "firm": "Covington & Burling LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Michel Jaccard",
+      "firm": "id est avocats sarl",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Michelle Virgiany",
+      "firm": "Hiswara Bunjamin & Tandjung in association with Herbert Smith Freehills",
+      "location": "Indonesia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Miguel Linares",
+      "firm": "Linares Abogados",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Miguel Sánchez",
+      "firm": "Cuatrecasas",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Up and Coming",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Mikkel Prímdal Kæregaard",
+      "firm": "Horten",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Minny Siu",
+      "firm": "King & Wood Mallesons",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Mordehay Malca",
+      "firm": "S Horowitz & Co",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Morten Wilhelm Winther",
+      "firm": "Advokatfirmaet Simonsen Vogt Wiig",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Muhsin Keskin",
+      "firm": "Esin Attorney Partnership, a Member Firm of Baker McKenzie International, a Swiss Verein",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Muneer Khan",
+      "firm": "Simmons & Simmons",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "My Chau Bachelard",
+      "firm": "Künzi Hess MacNab Attorneys at Law",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Nadia Manzari",
+      "firm": "Schiltz et Schiltz",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Nadim Bardawil",
+      "firm": "BSA Ahmad Bin Hezeem & Associates LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Naoya Ariyoshi",
+      "firm": "Nishimura & Asahi",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Narciso Campos Cuevas",
+      "firm": "Creel, García-Cuéllar, Aiza y Enríquez, S.C.",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Natalie Neto",
+      "firm": "Walkers Bermuda",
+      "location": "Bermuda",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Natasha Blycha",
+      "firm": "Stirling & Rose",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Niall Esler",
+      "firm": "Walkers",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Nick Pantlin",
+      "firm": "Herbert Smith Freehills",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Nick Wittek",
+      "firm": "Jones Day",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Niclas Rockborn",
+      "firm": "Gernandt & Danielsson Advokatbyrå KB",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Nicola Fenech Conti",
+      "firm": "GVZH Advocates",
+      "location": "Malta",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Nikki Johnstone",
+      "firm": "Allen & Overy LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Nikki Johnstone",
+      "firm": "Allen & Overy LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Nikki Worden",
+      "firm": "Osborne Clarke LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Nikki Worden",
+      "firm": "Osborne Clarke LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 5",
+        "2023": "Band 5"
+      }
+    },
+    {
+      "name": "Niklas Follin",
+      "firm": "Setterwalls",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Nimrod Tauber",
+      "firm": "Dushnik Levine Erben and Co",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Nina Moffatt",
+      "firm": "Paul Hastings (Europe) LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Star Associates"
+      }
+    },
+    {
+      "name": "Noga Devecseri Spira",
+      "firm": "Naschitz, Brandes, Amir & Co",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Nydia Guevara Villavicencio",
+      "firm": "Rodrigo, Elías & Medrano Abogados",
+      "location": "Peru",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Obrea Poindexter",
+      "firm": "Cooley LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Oded Ofek",
+      "firm": "M. Firon & Co.",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Oliver Widmer",
+      "firm": "Pestalozzi",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Oliver Widmer",
+      "firm": "Pestalozzi",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Oliver Woodhouse",
+      "firm": "Capital Law Limited",
+      "location": "Wales",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Oliver Woodhouse",
+      "firm": "Capital Law Limited",
+      "location": "South West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Olivier Favre",
+      "firm": "Schellenberg Wittmer Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Olivier Van den Broeke",
+      "firm": "Baker McKenzie",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Star Associates"
+      }
+    },
+    {
+      "name": "Olli Kiuru",
+      "firm": "Waselius & Wist",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Omri Rachum-Twaig",
+      "firm": "FISCHER (FBC & Co.)",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Oscar Tan",
+      "firm": "DLA Piper LLP",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Ozan Karaduman",
+      "firm": "Karaduman Law Firm",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Pamela Soto",
+      "firm": "LegalProject MX",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Patrick Van Eecke",
+      "firm": "Cooley LLP",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Paul Allen",
+      "firm": "DLA Piper Middle East LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Paul Anning",
+      "firm": "Osborne Clarke LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Paul Kayrouz",
+      "firm": "PwC Legal",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Paul Landless",
+      "firm": "Clifford Chance",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Paula De Biase",
+      "firm": "Baker McKenzie",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Pearse Ryan",
+      "firm": "Arthur Cox",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Peiying Chua Heikes",
+      "firm": "Linklaters Singapore Pte. Ltd.",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Peter Chapman",
+      "firm": "Clifford Chance LLP",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Peter Colegate",
+      "firm": "Appleby",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Peter G Weinstock",
+      "firm": "Hunton Andrews Kurth LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Peter Howitt",
+      "firm": "Ince",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Peter Hsu",
+      "firm": "Bär & Karrer Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Peter Reeves",
+      "firm": "Gilbert + Tobin",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Philip Graham",
+      "firm": "Harneys",
+      "location": "British Virgin Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Philippe De Prez",
+      "firm": "Simont Braun",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Philippe de Prez",
+      "firm": "Simont Braun",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Pierre Berger",
+      "firm": "DLA Piper UK LLP",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Piotr Ziolkowski",
+      "firm": "FinTech Consultancy",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Pratin Vallabhaneni",
+      "firm": "White & Case LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Preeta Bhagattjee",
+      "firm": "Cliffe Dekker Hofmeyr",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Rachel Hillier",
+      "firm": "Capital Law Limited",
+      "location": "Wales",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Rachel Hillier",
+      "firm": "Capital Law Limited",
+      "location": "South West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Rachel Kent",
+      "firm": "Hogan Lovells",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Rafał Celej",
+      "firm": "Kondracki Celej",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Rafał Kuchta",
+      "firm": "Wardyński & Partners",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Rahul Matthan",
+      "firm": "Trilegal",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Raino Paron",
+      "firm": "Ellex Raidla",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Ramandeep Grewal",
+      "firm": "Stikeman Elliott LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Raphael Palmieri Salomão",
+      "firm": "Pinheiro Neto Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Associates to watch",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Rashid Bahar",
+      "firm": "Advestra",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Rasmus Mandøe Jensen",
+      "firm": "Plesner",
+      "location": "Denmark",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Rauno Kinkar",
+      "firm": "LEXTAL",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Raza Rizvi",
+      "firm": "Simmons & Simmons",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Regina Liew",
+      "firm": "Rajah & Tann Singapore LLP",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Remi Dramstad",
+      "firm": "Advokatfirmaet Selmer AS",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Reto Luthiger",
+      "firm": "MLL Legal",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Star Associates",
+        "2022": "Star Associates",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Reto Luthiger",
+      "firm": "MLL Legal",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Star Associates",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Ricardo Glaessner Binnie",
+      "firm": "Pinheiro Neto Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Ricardo Plasencia",
+      "firm": "CMS",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Riccardo Coassin",
+      "firm": "Clifford Chance LLP",
+      "location": "Italy",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Richard B Levin",
+      "firm": "Nelson Mullins Riley & Scarborough LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Richard Field",
+      "firm": "Appleby",
+      "location": "Guernsey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Richard Hay",
+      "firm": "Linklaters",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Associates to watch",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Richard Hill",
+      "firm": "Eversheds Sutherland",
+      "location": "North West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Richard Spencer",
+      "firm": "Campbells",
+      "location": "British Virgin Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Richard Spencer",
+      "firm": "Campbells",
+      "location": "Cayman Islands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ridwaan Boda",
+      "firm": "ENSafrica",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Risto Rüütel",
+      "firm": "Eversheds Sutherland Ots & Co",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Rob Sumroy",
+      "firm": "Slaughter and May",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Rob Sumroy",
+      "firm": "Slaughter and May",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Data Protection & Cyber Security",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Robert A Cohen",
+      "firm": "Davis Polk & Wardwell LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Robert Cain",
+      "firm": "Arthur Cox",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Robert Rosenblum",
+      "firm": "Wilson Sonsini Goodrich & Rosati",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Robert Savoie",
+      "firm": "McGlinchey Stafford",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Rocky Mui",
+      "firm": "Clifford Chance",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Roderik Vrolijk",
+      "firm": "Stibbe",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Rolf Kobabe",
+      "firm": "Luther Rechtsanwaltsgesellschaft mbH",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Ronald Kogens",
+      "firm": "MLL Legal Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Roni Cohen Pavon",
+      "firm": "Herzog Fox & Neeman",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Rowena Fitzgerald",
+      "firm": "Mason Hayes & Curran LLP",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Roy Caner",
+      "firm": "Erdinast Ben Nathan Toledano & Co. with Hamburger Evron",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Salwah Abdul Shukor",
+      "firm": "Zain & Co - Member of Dentons",
+      "location": "Malaysia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sam Robinson",
+      "firm": "CMS",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Samuli Simojoki",
+      "firm": "Borenius",
+      "location": "Finland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Santiago Mora",
+      "firm": "GPG Advisory Partners",
+      "location": "Argentina",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Sarah Cloonan",
+      "firm": "Mason Hayes & Curran LLP",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Associates to watch",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Saul Adereth",
+      "firm": "Shibolet",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Scott Farrell",
+      "firm": "King & Wood Mallesons",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Scott McInnes",
+      "firm": "Bird & Bird",
+      "location": "Belgium",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Scott Pearson",
+      "firm": "Manatt Phelps & Phillips LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Scott Thiel",
+      "firm": "DLA Piper Hong Kong",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Sean Hecker",
+      "firm": "Kaplan Hecker & Fink LLP",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sean Murphy",
+      "firm": "Norton Rose Fulbright",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sean Murphy",
+      "firm": "Norton Rose Fulbright",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sean Murphy",
+      "firm": "Norton Rose Fulbright",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Sean Ruff",
+      "firm": "Cooley LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sebastian Sundberg",
+      "firm": "Advokatfirman Schjødt",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sergio Barboza",
+      "firm": "DLA Piper",
+      "location": "Peru",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Seshree Govender",
+      "firm": "Webber Wentzel",
+      "location": "South Africa",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Star Associates",
+        "2022": "Star Associates",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Shane Kelleher",
+      "firm": "William Fry",
+      "location": "Ireland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Shilpa Mankar Ahluwalia",
+      "firm": "Shardul Amarchand Mangaldas & Co",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Shunsuke Aoki",
+      "firm": "Anderson Mori & Tomotsune",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sigita Zavišienė",
+      "firm": "Motieka & Audzevičius",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Simon Burns",
+      "firm": "Gilbert + Tobin",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Simon Grant",
+      "firm": "Bennett Jones LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Simon Hawkins",
+      "firm": "Latham & Watkins",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Simon Toms",
+      "firm": "Skadden, Arps, Slate, Meagher & Flom (UK) LLP",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Simona Vosylienė",
+      "firm": "WALLESS",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "So Saito",
+      "firm": "So & Sato",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sonal Sejpal",
+      "firm": "Anjarwalla & Khanna",
+      "location": "Kenya",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stefan Kramer",
+      "firm": "Homburger",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Stefan Mrozinski",
+      "firm": "White & Case LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stefanie Hellmich",
+      "firm": "Luther Rechtsanwaltsgesellschaft mbH",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Stella Cramer",
+      "firm": "Norton Rose Fulbright",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Stephanie Magnus",
+      "firm": "Baker McKenzie Wong & Leow",
+      "location": "Singapore",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Stephen J Redican",
+      "firm": "Borden Ladner Gervais LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Stephen Mathias",
+      "firm": "Kochhar & Co",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Stephen Wink",
+      "firm": "Latham & Watkins LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stephen Wink",
+      "firm": "Latham & Watkins LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Steve Jacoby",
+      "firm": "Clifford Chance",
+      "location": "Luxembourg",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Steven Rees Davies",
+      "firm": "Carey Olsen Bermuda Limited",
+      "location": "Bermuda",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stewart Plant",
+      "firm": "DLA Piper UK LLP",
+      "location": "North West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Stuart D Levi",
+      "firm": "Skadden, Arps, Slate, Meagher & Flom LLP & Affiliates",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stuart Davis",
+      "firm": "Latham & Watkins",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Stuart Davis",
+      "firm": "Latham & Watkins",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Stuart Davis",
+      "firm": "Latham & Watkins",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stuart Davis",
+      "firm": "Latham & Watkins",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Up and Coming",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Stuart Levi",
+      "firm": "Skadden, Arps, Slate, Meagher & Flom LLP & Affiliates",
+      "location": "USA",
+      "practice": "Crypto-Asset Disputes",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sue McLean",
+      "firm": "Baker McKenzie",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sue Wan Wong",
+      "firm": "Wong & Partners member firm of Baker McKenzie International",
+      "location": "Malaysia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Susan Rodriguez",
+      "firm": "McGuireWoods LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Susanne Grohé",
+      "firm": "Annerton",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Suzie Miles",
+      "firm": "Ashfords LLP",
+      "location": "South West",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sven Mickisch",
+      "firm": "Skadden, Arps, Slate, Meagher & Flom LLP & Affiliates",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sébastien Gros",
+      "firm": "Hogan Lovells (Paris) LLP",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sébastien Praicheux",
+      "firm": "Norton Rose Fulbright",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sławomir Szepietowski",
+      "firm": "Bird & Bird Szepietowski i wspólnicy sp. k.",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Takafumi Ochiai",
+      "firm": "Atsumi & Sakai",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Takane Hori",
+      "firm": "Mori Hamada & Matsumoto",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Takeshi Nagase",
+      "firm": "Anderson Mori & Tomotsune",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Taku Umezawa",
+      "firm": "Nagashima Ohno & Tsunematsu",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Tarek Houdrouge",
+      "firm": "Schellenberg Wittmer Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Tatiana Facchim Ribeiro",
+      "firm": "Fialdini Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Tessa Penninks",
+      "firm": "CMS",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Thomas Brown",
+      "firm": "Paul Hastings LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Thomas Linder",
+      "firm": "MME Legal | Tax | Compliance",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Thomas Müller",
+      "firm": "Walder Wyss Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Thomas Müller",
+      "firm": "Walder Wyss Ltd",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Tim de Wit",
+      "firm": "Finnius",
+      "location": "Netherlands",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Tina Balzli",
+      "firm": "CMS",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Tobias Björklund",
+      "firm": "Setterwalls",
+      "location": "Sweden",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Todd W Beauchamp",
+      "firm": "Allen & Overy LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Tom Bicknell",
+      "firm": "Pinsent Masons LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tom Butcher",
+      "firm": "Allen & Overy LLP",
+      "location": "United Arab Emirates",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Tomas Kontautas",
+      "firm": "Sorainen",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tomas Talutis",
+      "firm": "Law firm TESET",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Tony Cameron",
+      "firm": "Harper Macleod LLP",
+      "location": "Scotland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Tony Coburn",
+      "firm": "Herbert Smith Freehills",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Toomas Seppel",
+      "firm": "Hedman Partners Attorneys Ltd",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Tore Mydske",
+      "firm": "Advokatfirmaet Thommessen AS",
+      "location": "Norway",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Tracy Molino",
+      "firm": "Blake, Cassels & Graydon LLP",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Trystan Tether",
+      "firm": "Bird & Bird",
+      "location": "London (Firms)",
+      "practice": "FinTech Legal: Payments & Lending",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Trystan Tether",
+      "firm": "Bird & Bird",
+      "location": "London",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Tuğrul Sevim",
+      "firm": "BTS & Partners (Beceni - Türkekul - Sevim Attorney Partnership)",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Urs Klöti",
+      "firm": "Pestalozzi",
+      "location": "Switzerland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Urs Klöti",
+      "firm": "Pestalozzi",
+      "location": "Switzerland",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Urszula McCormack",
+      "firm": "King & Wood Mallesons",
+      "location": "China",
+      "practice": "FinTech Legal (International Firms)",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Urszula McCormack",
+      "firm": "King & Wood Mallesons",
+      "location": "Australia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Usman Sheikh",
+      "firm": "Baker McKenzie",
+      "location": "Canada",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Valentin Ibarra",
+      "firm": "Chevez, Ruiz, Zamarripa y Cia., S.C.",
+      "location": "Mexico",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Vanêssa Fialdini",
+      "firm": "Fialdini Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Veikko Toomere",
+      "firm": "NJORD Law Firm",
+      "location": "Estonia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Verena Ritter-Döring",
+      "firm": "Taylor Wessing",
+      "location": "Germany",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Vicente Braga",
+      "firm": "Focaccia, Amaral e Lamonica Advogados",
+      "location": "Brazil",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Victoria Funes",
+      "firm": "Bomchil",
+      "location": "Argentina",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Vik Tang",
+      "firm": "Hiswara Bunjamin & Tandjung in association with Herbert Smith Freehills",
+      "location": "Indonesia",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Vikram Nagrani",
+      "firm": "Hassans",
+      "location": "Gibraltar",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Vincent Hatton",
+      "firm": "Herbert Smith Freehills",
+      "location": "France",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 4",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Vishnu Jerome",
+      "firm": "Jerome Merchant + Partners",
+      "location": "India",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Vivian Maese",
+      "firm": "Alston & Bird LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Corporate, Securities & Financing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Wojciech Iwanski",
+      "firm": "Sołtysiński Kawecki & Szlęzak",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Xavier Foz Giralt",
+      "firm": "RocaJunyent",
+      "location": "Spain",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Yasin Beceni",
+      "firm": "BTS & Partners (Beceni - Türkekul - Sevim Attorney Partnership)",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Yaşar Canpolat",
+      "firm": "Canpolat Legal",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Yinka Edu",
+      "firm": "Udo Udoma & Belo-Osagie",
+      "location": "Nigeria",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Yoshihiro Kataoka",
+      "firm": "Kataoka & Kobayashi",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Senior Statespeople",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "Yukinao Takamatsu",
+      "firm": "Kataoka & Kobayashi",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Yuri Suzuki",
+      "firm": "Atsumi & Sakai",
+      "location": "Japan",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Yuval Shalhevet",
+      "firm": "Yigal Arnon & Co",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Yuval Shalheveth",
+      "firm": "Arnon, Tadmor-Levy",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Yvette Valdez",
+      "firm": "Latham & Watkins LLP",
+      "location": "USA",
+      "practice": "FinTech Legal: Blockchain & Cryptocurrencies",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Yvonne Dunn",
+      "firm": "Pinsent Masons",
+      "location": "Scotland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Zbigniew Dlugosz",
+      "firm": "FinTaxLegal",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Zbigniew Długosz",
+      "firm": "FinTaxLegal",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Zvi Gabbay",
+      "firm": "Barnea Jaffa Lande & Co",
+      "location": "Israel",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "İhsan Can Aşık",
+      "firm": "ASK Legal",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "İlay Yılmaz",
+      "firm": "Esin Attorney Partnership, a Member Firm of Baker McKenzie International, a Swiss Verein",
+      "location": "Turkey",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Łukasz Węgrzyn",
+      "firm": "Kochański & Partners",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Łukasz Łyczko",
+      "firm": "PwC Legal Żelaźnicki sp.k.",
+      "location": "Poland",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "Up and Coming",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Žygimantas Stankevičius",
+      "firm": "TGS Baltic",
+      "location": "Lithuania",
+      "practice": "FinTech Legal",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    }
+  ],
+  "years": {
+    "2021": [
+      "Associates to watch",
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Spotlight Table",
+      "Star Associates",
+      "Up and Coming"
+    ],
+    "2022": [
+      "Associates to watch",
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Band 5",
+      "Senior Statespeople",
+      "Star Associates",
+      "Up and Coming"
+    ],
+    "2023": [
+      "Associates to watch",
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Band 5",
+      "Eminent Practitioners",
+      "Senior Statespeople",
+      "Star Associates",
+      "Up and Coming"
+    ]
+  }
+}

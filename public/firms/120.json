@@ -1,0 +1,2493 @@
+{
+  "firms": [
+    {
+      "id": 23031223,
+      "firm": "AXS Law Group PLLC",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 113955,
+      "firm": "Adam Leitman Bailey, P.C.",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23474524,
+      "firm": "Anderson and Associates Law, P.C.",
+      "location": "New York: New York",
+      "practice": "Immigration",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23564857,
+      "firm": "Ansbacher Law",
+      "location": "Florida: Jacksonville",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22611486,
+      "firm": "Anthony and Partners",
+      "location": "Florida: Tampa",
+      "practice": "Bankruptcy/Restructuring",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23091163,
+      "firm": "Arcadi Jackson, LLP",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23160480,
+      "firm": "Armond Wilson LLP",
+      "location": "Austin",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 280164,
+      "firm": "Arnold & Itkin LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464518,
+      "firm": "Assouline & Berlowe, P.A.",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522262,
+      "firm": "BEUSSE SANKS, PLLC",
+      "location": "Florida: Orlando",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23555495,
+      "firm": "BRAAM Partners",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22957253,
+      "firm": "Bachara Construction Law Group",
+      "location": "Florida: Jacksonville",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22807924,
+      "firm": "Bailey Brauer PLLC",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23011306,
+      "firm": "Bailey Duquette P.C.",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22403860,
+      "firm": "Baker Williams Matthiesen LLP",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23562296,
+      "firm": "Barnes & Barnes, P.C.",
+      "location": "New York: Long Island",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22858560,
+      "firm": "Barton LLP",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 125962,
+      "firm": "Becker, Glynn, Muffly, Chassin & Hosinski LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23441314,
+      "firm": "Beckham Portela",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22779014,
+      "firm": "Berg & Androphy",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22760221,
+      "firm": "Binder & Schwartz LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23085840,
+      "firm": "Bissinger, Oshman, Williams & Strasburger LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23292313,
+      "firm": "Blalock Walters P.A.",
+      "location": "Florida: Bradenton",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23468137,
+      "firm": "Block & McNeill, LLP",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23401746,
+      "firm": "Blue Peak Law Group LLP",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23529638,
+      "firm": "Bochner PLLC",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22846674,
+      "firm": "Bona Law PC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 228725,
+      "firm": "Bortstein Legal Group",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 317954,
+      "firm": "Boulware & Valoir PLLC",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23338217,
+      "firm": "Bradford, Edwards LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23468552,
+      "firm": "Bragalone Olejko Saad PC",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464084,
+      "firm": "Branscomb Law",
+      "location": "Corpus Christi",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22405161,
+      "firm": "Braumiller Law Group, PLLC",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 198511,
+      "firm": "Brinkley Morgan",
+      "location": "Florida: Fort Lauderdale",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23022195,
+      "firm": "Brodsky Fotiu-Wojtowicz",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23448033,
+      "firm": "Brown Fox PLLC",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464261,
+      "firm": "Buether Joe & Counselors, LLC",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23064750,
+      "firm": "Burford Perry",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23188259,
+      "firm": "BurgherGray LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22884343,
+      "firm": "ByrdAdatto",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23554267,
+      "firm": "CRGO Law",
+      "location": "Florida: West Palm Beach",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23174536,
+      "firm": "Cabello Hall Zinda, PLLC",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23258762,
+      "firm": "Cadwell Clonts Reeder & Thomas LLP",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23163218,
+      "firm": "Cain & Skarnulis PLLC",
+      "location": "Austin",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23533541,
+      "firm": "Carballo Law, P.A.",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23197863,
+      "firm": "Carter Arnett",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23560895,
+      "firm": "Cerasia Law LLC",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23534357,
+      "firm": "Chase Lawyers",
+      "location": "Florida: Miami",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 216126,
+      "firm": "Cherry Petersen Albert, LLP",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522540,
+      "firm": "Cobb & Gonzalez, P.A.",
+      "location": "Florida: Jacksonville",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23259881,
+      "firm": "Cohen Compagni Beckman Appler & Knoll, PLLC",
+      "location": "New York: Syracuse",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 70948,
+      "firm": "Conley Rose, P.C.",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 101632,
+      "firm": "Crain Caton & James",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23400544,
+      "firm": "Crumiller P.C.",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 192205,
+      "firm": "Cuddy & Feder LLP",
+      "location": "New York: Westchester",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522551,
+      "firm": "DGIM Law PLLC",
+      "location": "Florida: Miami",
+      "practice": "Bankruptcy/Restructuring",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23533529,
+      "firm": "DMRA Law",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23408707,
+      "firm": "DRRT",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23541194,
+      "firm": "Davant Law, P.A.",
+      "location": "Florida: Fort Lauderdale",
+      "practice": "Shipping/Maritime",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23539299,
+      "firm": "Davies Duke",
+      "location": "Florida: Fort Myers",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23023602,
+      "firm": "Davis Goldman, PLLC",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22568690,
+      "firm": "De Leo, Kuylenstierna & Little P.A.",
+      "location": "Florida: Miami",
+      "practice": "Shipping/Maritime",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22804326,
+      "firm": "Diamond McCarthy LLP",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23570764,
+      "firm": "Donnelly & Gross, PLLC",
+      "location": "Florida: Jacksonville",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22820897,
+      "firm": "Dorot & Bensimon PL",
+      "location": "Florida: Miami",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 243436,
+      "firm": "Drohan Lee LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23192789,
+      "firm": "Drumheller Hollingsworth & Monthy, LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23560896,
+      "firm": "Dunning Rievman & MacDonald LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22937686,
+      "firm": "Dwyer Murphy Calvert LLP",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22805869,
+      "firm": "E. Stewart Jones Hacker Murphy LLP",
+      "location": "New York: Albany",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23157817,
+      "firm": "Edelboim Lieberman Revah PLLC",
+      "location": "Florida: Miami",
+      "practice": "Bankruptcy/Restructuring",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23061975,
+      "firm": "Egan Nelson LLP",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23061006,
+      "firm": "Ehrenstein|Sager",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 67145,
+      "firm": "Eisenberg & Schnell LLP",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22820425,
+      "firm": "Elder Bray & Bankler",
+      "location": "San Antonio",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23459570,
+      "firm": "Elliott Kwok Levine & Jaroslaw LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23459570,
+      "firm": "Elliott Kwok Levine & Jaroslaw LLP",
+      "location": "New York: New York",
+      "practice": "White-Collar Crime & Government Investigations",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23540702,
+      "firm": "Ellis Law Group LLC",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23190645,
+      "firm": "Elman Freiberg PLLC",
+      "location": "New York: New York",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22698661,
+      "firm": "Estes Thorne & Carr PLLC",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23022651,
+      "firm": "FORD OBRIEN LANDY LLP",
+      "location": "New York: New York",
+      "practice": "White-Collar Crime & Government Investigations",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23571460,
+      "firm": "Falcon Rappaport & Berkman LLP",
+      "location": "New York: Long Island",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23431187,
+      "firm": "Federman Steifman LLP",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23463923,
+      "firm": "Felicello Law, P.C.",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22942620,
+      "firm": "Ferguson Braswell Fraser Kubasta PC",
+      "location": "Texas: Houston",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23119518,
+      "firm": "Ferguson Braswell Fraser Kubasta PC",
+      "location": "Houston",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 131744,
+      "firm": "Figari + Davenport, LLP",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22365850,
+      "firm": "Fisher, Tousey, Leas & Ball",
+      "location": "Florida: Jacksonville",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22611675,
+      "firm": "Fletcher Yoder, P.C.",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22832564,
+      "firm": "Fogler, Brar, O'Neil & Gray LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23108529,
+      "firm": "Foreman Friedman, PA.",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23187706,
+      "firm": "Friedland Vining PA",
+      "location": "Florida: Miami",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23408487,
+      "firm": "Friedman Sklar PLLC",
+      "location": "Florida: Miami",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23573446,
+      "firm": "Frost Law",
+      "location": "Florida: Miami",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23562346,
+      "firm": "GS Monteiro Law an affiliate of Trust Counsel",
+      "location": "Florida: Miami",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23541720,
+      "firm": "GS2 Law PLLC.",
+      "location": "Florida: Miami",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23541720,
+      "firm": "GS2 Law PLLC.",
+      "location": "Florida: Miami",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 307963,
+      "firm": "GST LLP",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23551407,
+      "firm": "Gardner Brewer Hudson",
+      "location": "Florida: Tampa",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23160478,
+      "firm": "Garwin Gerstein & Fisher LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22666738,
+      "firm": "Getnick Law",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22609841,
+      "firm": "Gjerset & Lorenz, LLP",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23328277,
+      "firm": "Glavin PLLC",
+      "location": "New York: New York",
+      "practice": "White-Collar Crime & Government Investigations",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23289255,
+      "firm": "Glenn Agre Bergman & Fuentes LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 76112,
+      "firm": "Godwin Bowman PC",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464103,
+      "firm": "Golden Steves & Gordon LLP",
+      "location": "San Antonio",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 119110,
+      "firm": "Golenbock Eiseman Assor Bell & Peskoe LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22620119,
+      "firm": "Gordon Davis Johnson & Shane P.C.",
+      "location": "El Paso",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464171,
+      "firm": "Grable Martin Fulton PLLC",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23528989,
+      "firm": "Grant Attorneys at Law PLLC",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22770491,
+      "firm": "Grant, Herrmann, Schwartz & Klinger LLP",
+      "location": "New York: New York",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23115117,
+      "firm": "Gross Shuman P.C.",
+      "location": "New York: Buffalo",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23159539,
+      "firm": "Haber Law",
+      "location": "Florida: Miami",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 181334,
+      "firm": "Hallett & Perrin, P.C.",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23107189,
+      "firm": "Halloran Farkas + Kittila LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 172364,
+      "firm": "Halperin Battaglia Benzija, LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22768046,
+      "firm": "Hamilton, Miller & Birthisel, LLP",
+      "location": "Florida: Miami",
+      "practice": "Shipping/Maritime",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 171881,
+      "firm": "Harper Meyer LLP",
+      "location": "Florida: Miami",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23372118,
+      "firm": "Hecht Partners LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464134,
+      "firm": "Hedrick Kring Bailey PLLC",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 93397,
+      "firm": "Herbsman Hafer Weber & Frisch, LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22820989,
+      "firm": "Herskovits PLLC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464519,
+      "firm": "Hicks Porter Ebenfeld & Stien PA",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22750986,
+      "firm": "Hitchcock Evert LLP",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22807877,
+      "firm": "Horr Skipp & Perez, P.A.",
+      "location": "Florida: Miami",
+      "practice": "Shipping/Maritime",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23177785,
+      "firm": "Huggins Reddien LLP",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23151315,
+      "firm": "Hunter Taubman Fischer & Li LLC",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22628784,
+      "firm": "Hurwitz Fine P.C.",
+      "location": "New York: Buffalo",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23466518,
+      "firm": "JFB Legal",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522300,
+      "firm": "JOHNSON JACKSON PLLC.",
+      "location": "Florida: Tampa",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 252287,
+      "firm": "Jackson, Sjoberg, & Townsend, LLP",
+      "location": "Austin",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23188714,
+      "firm": "Jia Law Group",
+      "location": "New York: New York",
+      "practice": "Immigration",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464506,
+      "firm": "Jimerson Birr, P.A.",
+      "location": "Florida: Jacksonville",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23539454,
+      "firm": "Johnson, Newlon & DeCort, P.A.",
+      "location": "Florida: Tampa",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23547978,
+      "firm": "Judd Burstein P.C.",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22759937,
+      "firm": "Kaplan Fox & Kilsheimer LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22866061,
+      "firm": "Kaplan Rice LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464304,
+      "firm": "Kastner Gravelle LLP",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 119663,
+      "firm": "Katz Barron",
+      "location": "Florida: Miami",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22625594,
+      "firm": "Keller Landsberg PA",
+      "location": "Florida: Fort Lauderdale",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 208829,
+      "firm": "Kellner Herlihy Getty & Friedman LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22957820,
+      "firm": "Kessler Collins, P.C.",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 75666,
+      "firm": "King, Blackwell, Zehnder & Wermuth, P.A.",
+      "location": "Florida: Orlando",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 139302,
+      "firm": "Kirby McInerney LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22957569,
+      "firm": "Klemchuk LLP",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22753749,
+      "firm": "Klestadt Winters Jureller Southard & Stevens, LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23191983,
+      "firm": "Klug Law Firm PLLC",
+      "location": "New York: New York",
+      "practice": "Immigration",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23537632,
+      "firm": "Knott Ebelini Hart",
+      "location": "Florida: Fort Myers",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23243187,
+      "firm": "Koffsky Schwalb LLC",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22821091,
+      "firm": "Koning Rubarts LLP",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 311293,
+      "firm": "Krantz & Berman LLP",
+      "location": "New York: New York",
+      "practice": "White-Collar Crime & Government Investigations",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22809824,
+      "firm": "Kroub, Silbersher & Kolmykov PLLC",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23008860,
+      "firm": "Kruger Carson PLLC",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23539879,
+      "firm": "Lachtman Cohen P.C.",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23449277,
+      "firm": "Landau Law PLLC",
+      "location": "Florida: Boca Raton",
+      "practice": "Bankruptcy/Restructuring",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 119122,
+      "firm": "Lauro & Singer",
+      "location": "Florida: Tampa",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22818257,
+      "firm": "Law Office of Stacy J Grossman PLLC",
+      "location": "New York: Westchester",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 248609,
+      "firm": "Leason Ellis LLP",
+      "location": "New York: Westchester",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23289777,
+      "firm": "Lehotsky Keller LLP",
+      "location": "Austin",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 283539,
+      "firm": "Levitt LLP",
+      "location": "New York: Long Island",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23526763,
+      "firm": "Levy Employment Law, LLC",
+      "location": "New York: Westchester",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23543615,
+      "firm": "Liang & Hennessey LLP",
+      "location": "New York: Westchester",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23277689,
+      "firm": "Liston Abramson LLP",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22877762,
+      "firm": "Looper Goodwine P.C.",
+      "location": "Houston",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23012214,
+      "firm": "Losey PLLC",
+      "location": "Florida: Orlando",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23012214,
+      "firm": "Losey PLLC",
+      "location": "Florida: Orlando",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22625472,
+      "firm": "Lotz Law Firm PLLC",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22398750,
+      "firm": "Lyons & Flood, LLP",
+      "location": "New York: Long Island",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23424203,
+      "firm": "Maderal Byrne & Furst PLLC",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22926475,
+      "firm": "Malloy & Malloy, P.L.",
+      "location": "Florida: Miami",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23028857,
+      "firm": "Manire Galla Curley LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 239008,
+      "firm": "Marc Jacobson, P.C.",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22944045,
+      "firm": "Martin | Hild, P.A.",
+      "location": "Florida: Orlando",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23563761,
+      "firm": "Mattice Legal, LLC",
+      "location": "New York: Buffalo",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23053573,
+      "firm": "Mauriel Kapouytian Woods LLP.",
+      "location": "New York: New York",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522539,
+      "firm": "Milam Howard Nicandri & Gillam, P.A.",
+      "location": "Florida: Jacksonville",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522539,
+      "firm": "Milam Howard Nicandri & Gillam, P.A.",
+      "location": "Florida: Jacksonville",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22927112,
+      "firm": "Miller, Leiby & Associates, P.C.",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23458167,
+      "firm": "Milstein Law Group, PLLC",
+      "location": "New York: New York",
+      "practice": "Immigration",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23542670,
+      "firm": "Mintzer Mauch PLLC",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464146,
+      "firm": "Mounce Green Myers Safi Paxson & Galatzan",
+      "location": "El Paso",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 85236,
+      "firm": "Mrachek, Fitzgerald, Rose, Konopka, Thomas & Weiss, P.A.",
+      "location": "Florida: West Palm Beach",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23521033,
+      "firm": "Muchmore & Associates PLLC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 87034,
+      "firm": "Munck Wilson Mandala LLP",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 117429,
+      "firm": "Murphy & Anderson, P.A.",
+      "location": "Florida: Jacksonville",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464086,
+      "firm": "Muskat, Mahony & Devine",
+      "location": "Houston",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22866131,
+      "firm": "Nardella & Nardella, PLLC",
+      "location": "Florida: Orlando",
+      "practice": "Bankruptcy/Restructuring",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464090,
+      "firm": "Nelson Bumgardner Conroy",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23562344,
+      "firm": "Newman & Lickstein, LLP",
+      "location": "New York: Syracuse",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23183014,
+      "firm": "Next Legal PLLC",
+      "location": "Florida: Miami",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22750605,
+      "firm": "Oberti Sullivan LLP",
+      "location": "Houston",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23268747,
+      "firm": "Orr | Cook",
+      "location": "Florida: Jacksonville",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23070922,
+      "firm": "Ortoli | Rosenstadt LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23376902,
+      "firm": "Osha Bergman Watanabe & Burton LLP",
+      "location": "Houston",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 151002,
+      "firm": "Oved & Oved LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23377423,
+      "firm": "O’Toole + O’Toole PLLC",
+      "location": "New York: Westchester",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23364206,
+      "firm": "PAG.Law PLLC.",
+      "location": "Florida: Miami",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464235,
+      "firm": "Padfield & Stout, LLP",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23363019,
+      "firm": "Paduano & Weintraub LLP",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23092617,
+      "firm": "Pannone Lopes Devereaux & O'Gara LLC",
+      "location": "Florida: Boca Raton",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22626879,
+      "firm": "Parker Highlander PLLC",
+      "location": "Austin",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464148,
+      "firm": "Patel Law Group PLLC",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23473197,
+      "firm": "Pechman Law Group PLLC",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 186309,
+      "firm": "Pierce & O’Neill, LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23105451,
+      "firm": "Pollard PLLC",
+      "location": "Florida: Fort Lauderdale",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23329412,
+      "firm": "Pollock Cohen LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22936613,
+      "firm": "Potts Blacklock Senterfitt, PLLC",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23369076,
+      "firm": "Prichard Young",
+      "location": "San Antonio",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23445452,
+      "firm": "Purrington Moody Weil LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23149871,
+      "firm": "Queen Saenz + Schutz PLLC",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22992380,
+      "firm": "RPCK Rastegar Panchal",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23424282,
+      "firm": "Raisner Roupinian LLP",
+      "location": "New York: New York",
+      "practice": "Labor & Employment",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22797972,
+      "firm": "Rakower Law PLLC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 313733,
+      "firm": "Rasco Klock Perez & Nieto, P.L.",
+      "location": "Florida: Miami",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464102,
+      "firm": "Ray Peña McChristian",
+      "location": "San Antonio",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23082476,
+      "firm": "Reese Marketos LLP",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 137376,
+      "firm": "Rennert Vogel Mandler & Rodriguez, P.A.",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23557510,
+      "firm": "Reyes Lawyers, P.A.",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22933420,
+      "firm": "RezLegal",
+      "location": "Florida: Jacksonville",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23349303,
+      "firm": "Rivero & Hernandez PLLC",
+      "location": "Florida: Miami",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 87176,
+      "firm": "Roach & Newton, LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 65327,
+      "firm": "Rogers Towers PA.",
+      "location": "Florida: Jacksonville",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 130194,
+      "firm": "Royston Rayzor Vickery & Williams",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22940433,
+      "firm": "Rupp Pfalzgraf LLC ",
+      "location": "New York: Buffalo",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 132787,
+      "firm": "Rusty Hardin & Associates",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 81073,
+      "firm": "Sadis & Goldberg LLP.",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 277390,
+      "firm": "Sallah Astarita & Cox, LLC",
+      "location": "Florida: Boca Raton",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23543956,
+      "firm": "Salup Rodriguez, PLLC",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23561406,
+      "firm": "Salzano Ettinger Lampert & Wilson",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23518373,
+      "firm": "Sanchez-Medina, Gonzalez, Quesada, Lage, Gomez & Machado, LLP. ",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23518373,
+      "firm": "Sanchez-Medina, Gonzalez, Quesada, Lage, Gomez & Machado, LLP. ",
+      "location": "Florida: Miami",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464091,
+      "firm": "Santoyo Wehmeyer PC",
+      "location": "San Antonio",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22611224,
+      "firm": "Schlam Stone & Dolan",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464609,
+      "firm": "Schlanger Silver LLP",
+      "location": "Houston",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23149792,
+      "firm": "Scoolidge Peters Russotti & Fox LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23357998,
+      "firm": "Seiden Law",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23538447,
+      "firm": "Sentner Safran LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 224999,
+      "firm": "Shannon, Martin, Finkelstein, Alvarado & Dunne, P.C.",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22959779,
+      "firm": "Shepard, Smith, Kohlmyer & Hand, P.A.",
+      "location": "Florida: Orlando",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22757160,
+      "firm": "Shipkevich PLLC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23522267,
+      "firm": "Sichenzia Ross Ference Carmel LLP",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22944495,
+      "firm": "Skiermont Derby LLP",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23558389,
+      "firm": "Slarskey LLC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22851373,
+      "firm": "Slayden Grubert Beard PLLC",
+      "location": "Austin",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23562240,
+      "firm": "Sloto & Diamond, PLLC",
+      "location": "Florida: Miami",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23559114,
+      "firm": "Stagg Wabnik Law Group",
+      "location": "New York: Long Island",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 254733,
+      "firm": "Stahl, Davies, Sewell, Chavarria & Friend, LLP",
+      "location": "Austin",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23557679,
+      "firm": "State Tax Law LLC",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23535754,
+      "firm": "Stein Adler Dabah & Zelkowitz LLP",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22866510,
+      "firm": "Strawn Pickens LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23562234,
+      "firm": "Strikowsky, Drachman & Shapiro",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22939028,
+      "firm": "Taylor, Day, Grimm & Boyd",
+      "location": "Florida: Jacksonville",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23204705,
+      "firm": "Tein Malone PLLC",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23028757,
+      "firm": "Tesser, Ryan & Rochman, LLP",
+      "location": "New York: Westchester",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23279985,
+      "firm": "The Brickell IP Group PLLC",
+      "location": "Florida: Miami",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464193,
+      "firm": "The Richard Law Group, Inc.",
+      "location": "Dallas",
+      "practice": "Intellectual Property",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22397619,
+      "firm": "The Soto Law Group, P.A.",
+      "location": "Florida: Fort Lauderdale",
+      "practice": "Construction",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23086458,
+      "firm": "The Wagoner Firm PLLC",
+      "location": "New York: Albany",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23276159,
+      "firm": "Thomas Williams McConnell PLLC",
+      "location": "Austin",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22900674,
+      "firm": "Tillotson Johnson & Patton",
+      "location": "Dallas",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23464545,
+      "firm": "Turkel Cuva Barrios P.A.",
+      "location": "Florida: Tampa",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23164452,
+      "firm": "Tuttle Yick LLP",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23531173,
+      "firm": "Vishnick McGovern Milizio LLP",
+      "location": "New York: Long Island",
+      "practice": "Trusts & Estates",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 182747,
+      "firm": "Wachtel Missry LLP",
+      "location": "New York: New York",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23010523,
+      "firm": "Ware, Jackson, Lee, O'Neill, Smith & Barrow, LLP",
+      "location": "Houston",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23055679,
+      "firm": "Watson Sloane Attorneys",
+      "location": "Florida: Orlando",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23252753,
+      "firm": "Weddle Law PLLC",
+      "location": "New York: New York",
+      "practice": "White-Collar Crime & Government Investigations",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22830066,
+      "firm": "Weisbart Springer Hayes, LLP",
+      "location": "Austin",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23410805,
+      "firm": "Wernick Law, PLLC",
+      "location": "Florida: Boca Raton",
+      "practice": "Bankruptcy/Restructuring",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 251377,
+      "firm": "Wick Phillips Attorneys & Counselors",
+      "location": "Dallas",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22969257,
+      "firm": "Wilson William LLC",
+      "location": "New York: New York",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 160569,
+      "firm": "Wilson, Cribbs + Goren, P.C.",
+      "location": "Houston",
+      "practice": "Corporate/Commercial",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22617330,
+      "firm": "Wolf Haldenstein Adler Freeman & Herz LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23102012,
+      "firm": "Wolf Popper LLP",
+      "location": "New York: New York",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 23423560,
+      "firm": "Zeidel & Associates P.C.",
+      "location": "New York: Westchester",
+      "practice": "Real Estate",
+      "history": {
+        "2023": "Spotlight"
+      }
+    },
+    {
+      "id": 22752191,
+      "firm": "Zumpano Patricios",
+      "location": "Florida: Miami",
+      "practice": "Dispute Resolution",
+      "history": {
+        "2023": "Spotlight"
+      }
+    }
+  ],
+  "years": {
+    "2023": [
+      "Spotlight"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "guides": [
+    {
+      "id": 1,
+      "name": "UK"
+    },
+    {
+      "id": 2,
+      "name": "Global"
+    },
+    {
+      "id": 5,
+      "name": "USA"
+    },
+    {
+      "id": 7,
+      "name": "Europe"
+    },
+    {
+      "id": 8,
+      "name": "Asia-Pacific"
+    },
+    {
+      "id": 9,
+      "name": "Latin America"
+    },
+    {
+      "id": 14,
+      "name": "UK Bar"
+    },
+    {
+      "id": 20,
+      "name": "Canada"
+    },
+    {
+      "id": 21,
+      "name": "High Net Worth"
+    },
+    {
+      "id": 49,
+      "name": "FinTech"
+    },
+    {
+      "id": 58,
+      "name": "Litigation Support"
+    },
+    {
+      "id": 74,
+      "name": "Law Tech"
+    },
+    {
+      "id": 77,
+      "name": "GC Influencers"
+    },
+    {
+      "id": 94,
+      "name": "Alternative Legal Service Providers"
+    },
+    {
+      "id": 99,
+      "name": "Brazil: Contentious"
+    },
+    {
+      "id": 100,
+      "name": "Brazil: Transactional"
+    },
+    {
+      "id": 101,
+      "name": "Brazil: Industries & Sectors"
+    },
+    {
+      "id": 102,
+      "name": "Brazil: Regions"
+    },
+    {
+      "id": 108,
+      "name": "Crisis & Risk Management"
+    },
+    {
+      "id": 116,
+      "name": "Greater China Region"
+    },
+    {
+      "id": 120,
+      "name": "USA: Regional Spotlight"
+    },
+    {
+      "id": 127,
+      "name": "Spotlight Florida"
+    },
+    {
+      "id": 128,
+      "name": "Spotlight New York"
+    }
+  ]
+}

@@ -1,0 +1,2646 @@
+{
+  "lawyers": [
+    {
+      "name": "Aaron Shao",
+      "firm": "Abbott China",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Adenike Laoye",
+      "firm": "Ecobank Nigeria",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Agostino Nuzzolo",
+      "firm": "Telecom Italia SpA",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Akira Saito",
+      "firm": "ITOCHU Corporation",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alan N Braverman",
+      "firm": "The Walt Disney Company",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alberto Sepúlveda Cosío",
+      "firm": "Wal-Mart de Mexico SA de CV",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alejandro Cantú Jiménez",
+      "firm": "América Móvil SA de CV",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alexander Lunshof",
+      "firm": "Essilor International SA",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alexander Tarabrin",
+      "firm": "DOM.RF",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alexei Nikiforov",
+      "firm": "JSC Sibur Holding",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Alison Lazerwitz",
+      "firm": "Swarovski Entertainment",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Amy Weaver",
+      "firm": "Salesforce.com, Inc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ana Buitrago",
+      "firm": "Amazon EU SRL",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ana Paula Reis",
+      "firm": "CIMPOR - Industria de Cimentos SA",
+      "location": "Portugal",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Andrea Wood",
+      "firm": "TELUS Corporation",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Andreas Wiemer",
+      "firm": "Deutsche Bank AG",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Andy Sherman",
+      "firm": "Dolby Laboratories, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Angela Krantz",
+      "firm": "Amazon Japan K.K.",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Anna Serebryanikova",
+      "firm": "Megafon",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Anne Madden",
+      "firm": "Honeywell International, Inc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Antonia Cosenz",
+      "firm": "Banco BPM",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Antonio Alves",
+      "firm": "The Navigator Company",
+      "location": "Portugal",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Augustine Quadros",
+      "firm": "HDFC Bank Limited",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Aurélien Hamelle",
+      "firm": "Total",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ayman Essam",
+      "firm": "Vodafone Egypt Telcommunications S.A.E.",
+      "location": "Egypt",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ayman Hamdy",
+      "firm": "Nakheel",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Bhaskar Chandran",
+      "firm": "GMR Group",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Bin Sun",
+      "firm": "Xiaomi",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Bin Zhao",
+      "firm": "Qualcomm",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Bradford Berry",
+      "firm": "NAACP",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Breck Hancock",
+      "firm": "DST Global",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Brent Irvin",
+      "firm": "Tencent Technology (Shenzhen) Co Ltd",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Brent Irvin",
+      "firm": "Tencent Technology (Shenzhen) Co Ltd",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Brett Graham",
+      "firm": "Morgan Stanley Asia Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Brian W. Ellis",
+      "firm": "Danaher Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Bruno Fontaine",
+      "firm": "Credit Agricole CIB",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Carlo Daneo",
+      "firm": "Ferrari SpA",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Charles F. Robinson",
+      "firm": "University of California Board of Regents",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Charles Vikisi",
+      "firm": "Network Healthcare Holdings Limited (Netcare)",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Charles Wheeler",
+      "firm": "Absa Bank",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Chris Sanderson",
+      "firm": "Hutchison Telecommunications Hong Kong Holdings Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Clare Wardle",
+      "firm": "Coca-Cola European Partners",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Claudia Echavarría Uribe",
+      "firm": "Grupo Éxito",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Claudia Junker",
+      "firm": "Deutsche Telekom AG",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Clint Wilson",
+      "firm": "GuarantCo",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Craig B Glidden",
+      "firm": "General Motors Company",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David A Miller",
+      "firm": "T-Mobile USA, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David A Zapolsky",
+      "firm": "Amazon.com, Inc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David B Fein",
+      "firm": "Standard Chartered Bank",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David C Vigilante",
+      "firm": "Cable News Network, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David Calabrigo KC",
+      "firm": "Canfor Corporation",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David Eveleigh",
+      "firm": "Serco Group plc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David Hyman",
+      "firm": "Netflix, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David J Sorkin",
+      "firm": "KKR & Co (Kohlberg Kravis Roberts & Co)",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David M Stryker",
+      "firm": "Huntsman Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "David R McAtee",
+      "firm": "AT&T, Inc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Debolina Partap",
+      "firm": "Wockhardt",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Deepak Chauhan",
+      "firm": "Welspun Corporation",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Deepak Jacob",
+      "firm": "Star India Pvt. Ltd.",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Denise Cade",
+      "firm": "Idex Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Desmond Chan",
+      "firm": "China Everbright International Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Dev Bajpai",
+      "firm": "Hindustan Unilever Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Diego Felix",
+      "firm": "Mubadala",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Dominique Bourrinet",
+      "firm": "Société Générale S.A.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Donald J Rosenberg",
+      "firm": "Qualcomm Incorporated",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Douglas Letter",
+      "firm": "U.S. House of Representatives",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Douglas M Lankler",
+      "firm": "Pfizer, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Elena Borisenko",
+      "firm": "Gazprombank",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ellen F Whittemore",
+      "firm": "Wynn Resorts Ltd",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ellen Steen",
+      "firm": "American Farm Bureau Federation (AFBF)",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Emile Saadi",
+      "firm": "Apple M E FZCO Dubai Branch",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Emmanuelle Bely",
+      "firm": "Groupe Danone SA",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Eran Meiri",
+      "firm": "SHUFERSAL",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Eric F Grossman",
+      "firm": "Morgan Stanley",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Eric Haza",
+      "firm": "Veolia Environment SA",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Eric Nitcher",
+      "firm": "BP plc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Erica Chan",
+      "firm": "Wal-Mart Stores Inc.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Eva Argiles",
+      "firm": "APPLUS+",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Eve Burton",
+      "firm": "The Hearst Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Fred Waithaka",
+      "firm": "Safaricom Limited",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Friederike Rotsch",
+      "firm": "Merck KGaA",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Frédéric Crepin",
+      "firm": "Vivendi",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Gerda Holzinger-Burgstaller",
+      "firm": "Erste Group Bank AG",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Gianpaolo Alessandro",
+      "firm": "UniCredit S.p.A.",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Gonzalo Smith",
+      "firm": "S.A.C.I. Falabella",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Gordon Currie",
+      "firm": "George Weston Limited",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Gregor Gessner",
+      "firm": "GATX Rail Austria GmbH",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Guido Jestädt",
+      "firm": "BAWAG  P.S.K.",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Guido Santi",
+      "firm": "EDF Energy plc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "H Gwen Marcus",
+      "firm": "Showtime Networks, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Hadar Brin Weiss",
+      "firm": "CLAL Insurance Co, Inc",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Hanna Cao Hui",
+      "firm": "Silk Road Fund Co., Ltd",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Hartley Dikgale",
+      "firm": "Sibanye Gold",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Hartley Dikgale",
+      "firm": "Sibanye Gold",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Haydn Hillestad",
+      "firm": "South32 Coal Holdings Limited",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Heather Mitchell",
+      "firm": "The Carlyle Group",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Helen Browne",
+      "firm": "AXA",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Hilary Dessouky",
+      "firm": "Patagonia, Inc.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Himanshu Dodeja",
+      "firm": "Blackstone Advisors (India) Pvt Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Igor Kondrashov",
+      "firm": "Sberbank of Russia",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ingo Steinwender",
+      "firm": "CA Immobilien Anlagen AG",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ipsita Dutta",
+      "firm": "Morgan Stanley India Company Private Limited",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Irit Roth",
+      "firm": "Herzog Fox & Neeman",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Isabela Perez Nivela",
+      "firm": "Coca Cola Iberian partners",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jaime El Koury",
+      "firm": "The Financial Oversight and Management Board for Puerto Rico",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "James R Ford",
+      "firm": "GlaxoSmithKline Corporation",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jan Heinemann",
+      "firm": "Adidas Group",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jatin Jalundhwala",
+      "firm": "Adani Power Ltd.",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Javier Ramírez",
+      "firm": "Hewlett-Packard Española",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jean-Yves Haagen",
+      "firm": "Groupe Casino",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jeff Davis",
+      "firm": "Ontario Teachers' Pension Plan (OTPP)",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jeffrey Kaplan",
+      "firm": "Lyondell Chemical Company",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jenifer Rogers",
+      "firm": "Asurion Japan K.K.",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jerome Abelman",
+      "firm": "British American Tobacco PLC",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jigar Shah",
+      "firm": "KKR & Co (Kohlberg Kravis Roberts & Co)",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jill Simeone",
+      "firm": "Etsy Inc.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jim Meza",
+      "firm": "WarnerMedia",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "John G Finley",
+      "firm": "The Blackstone Group",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "John Harrison",
+      "firm": "Airbus Group",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "John Harrison",
+      "firm": "Airbus Group",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "John J Blood",
+      "firm": "Anheuser-Busch InBev",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "John Simon",
+      "firm": "PG&E Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "John Wood",
+      "firm": "U.S. Chamber of Commerce",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jon M Zieger",
+      "firm": "Stripe",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Jorge Gracia",
+      "firm": "Sprint Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Joseph F Wayland",
+      "firm": "Chubb Group",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Josie Jardim",
+      "firm": "Amazon Brazil",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "José Julio Figueroa Gómez de Salazar",
+      "firm": "Acciona Eólica CESA SL",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Juan Carlos Mencio",
+      "firm": "LATAM Airlines Group",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Julia Friebel",
+      "firm": "OMV AG",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Julia Olson",
+      "firm": "Our Children's Trust",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Julie Gruber",
+      "firm": "Gap, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Justin B Beber",
+      "firm": "Brookfield Asset Management Inc.",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kalpana Agarwal",
+      "firm": "Kotak Mahindra Bank Limited",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Karen Patton Seymour",
+      "firm": "Sullivan & Cromwell LLP",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Karl Rogers",
+      "firm": "Standard Chartered Bank",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Karl Rogers",
+      "firm": "Standard Chartered Bank",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Katherine L Adams",
+      "firm": "Apple, Inc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kathy Hibbs",
+      "firm": "23andMe, Inc.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Keith Hutton",
+      "firm": "Saudi International Petrochemical Company (SIPC)",
+      "location": "Saudi Arabia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kelly Brunetti Rose",
+      "firm": "ConocoPhillips, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kenji Tagaya",
+      "firm": "JERA Co., Inc.",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kim Thomassin",
+      "firm": "Caisse de dépôt et placement du Québec (CDPQ)",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kim Thomassin",
+      "firm": "Caisse de dépôt et placement du Québec (CDPQ)",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kimberley D Harris",
+      "firm": "NBCUniversal, Inc.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kirti Ram Hariharan",
+      "firm": "Baring Private Equity Asia Pte Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kristin Sverchek",
+      "firm": "Lyft, Inc.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Kurt-Jörgen Olsson",
+      "firm": "Inter IKEA Centre Group A/S",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Laura J Schumacher",
+      "firm": "AbbVie",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Laureen E Seeger",
+      "firm": "American Express Company",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Laurent VALLEE",
+      "firm": "Carrefour SA",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Lawrence M Harnett",
+      "firm": "Saudi Basic Industries Corporation (SABIC)",
+      "location": "Saudi Arabia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Lawrence M Harnett",
+      "firm": "Saudi Basic Industries Corporation (SABIC)",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Leora Pratt-Levin",
+      "firm": "The Delek Group",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Linda Mouaz",
+      "firm": "Nestlé Middle East",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Liz  Cohen Yerushalmi",
+      "firm": "Mobileye",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Lori Schechter",
+      "firm": "McKesson Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Louangela Bianchini",
+      "firm": "CIELO",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Lucia Kautzky",
+      "firm": "Immofinanz AG",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Lucineia Possar",
+      "firm": "Banco do Brasil S.A.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Lucy Fato",
+      "firm": "AIG",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Magda de Castro Kiehl",
+      "firm": "Accor",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mahmoud Shaarawy",
+      "firm": "HSA Group",
+      "location": "Egypt",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Manfred Doess",
+      "firm": "Volkswagen AG",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Manuela Simões",
+      "firm": "Companhia de Seguros Tranquilidade S.A.",
+      "location": "Portugal",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marc A. Lahusen",
+      "firm": "Georg Fischer AG",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marc Ellenbogen",
+      "firm": "Foursquare Labs, Inc.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marc Kesselman",
+      "firm": "Purdue Pharma L.P.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marco A Santori",
+      "firm": "Kraken Digital Asset Exchange",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marcus Tsang",
+      "firm": "Li & Fung Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Maria González Ordoñez",
+      "firm": "Google Spain",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mariana Abreu",
+      "firm": "BNI - Banco de Negócios Internacional (Europa) SA",
+      "location": "Portugal",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marianna Zakharova",
+      "firm": "Norilsk Nickel",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marielouise Gregory",
+      "firm": "Telekom Austria",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marilù Capparelli",
+      "firm": "Google Italia",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mark Allen",
+      "firm": "FedEx Express",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mark Gregory",
+      "firm": "Rolls Royce Holdings plc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marlene Jennings",
+      "firm": "African Rainbow Capital",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Marta Almeida Afonso",
+      "firm": "REN - Redes Energéticas Nacionais, SGPS, S.A.",
+      "location": "Portugal",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Meera Singh",
+      "firm": "KPMG India",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Melissa Kennedy",
+      "firm": "Sun Life Financial, Inc",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Meredith Smith",
+      "firm": "StashInvest",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Michael H Ullmann",
+      "firm": "Johnson & Johnson",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Michael Holston",
+      "firm": "General Electric Company",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Michael J Harrington",
+      "firm": "Eli Lilly & Company",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Michelle Browdy",
+      "firm": "IBM",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Michelle Fang",
+      "firm": "Turo",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mitchell Bernard",
+      "firm": "Natural Resources Defense Council",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mohamad Malak",
+      "firm": "Fresenius Medical Care",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mohamed Gabr",
+      "firm": "EFG Hermes Investment Banking",
+      "location": "Egypt",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Monica Parames",
+      "firm": "Sanitas S.A. de Seguros",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mukesh Bhavnani",
+      "firm": "Bharti Enterprises Limited",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Mustafa Tharoo",
+      "firm": "IHS Nigeria Plc",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nabeel Al-Mansour",
+      "firm": "Saudi Arabian Oil Company (ARAMCO)",
+      "location": "Saudi Arabia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nabeel Al-Mansour",
+      "firm": "Saudi Arabian Oil Company (ARAMCO)",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nadia Bardawil",
+      "firm": "Mubadala",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nana Eshun",
+      "firm": "Africa Finance Corporation (AFC)",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nana Eshun",
+      "firm": "Africa Finance Corporation (AFC)",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nasreen Bulos",
+      "firm": "HSBC Bank Middle East Limited",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Naveen Raju",
+      "firm": "Mahindra & Mahindra Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ned Othman",
+      "firm": "Vision Invest",
+      "location": "Saudi Arabia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Neena Gupta",
+      "firm": "InterGlobe Enterprises Limited",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nicola Verdicchio",
+      "firm": "Pirelli",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nitzan Hadad",
+      "firm": "Teva Pharmaceutical Industries Ltd",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Nkateko Nyoka",
+      "firm": "Vodacom Group Pty Limited",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Olivier Schwartz",
+      "firm": "DP World",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Olivier Schwartz",
+      "firm": "DP World",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Oscar García Maceiras",
+      "firm": "Grupo Santander",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Oscar Hållén",
+      "firm": "Klarna AB",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "PM Deviah",
+      "firm": "Everstone Capital Advisors",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Pablo de Carvajal Gonzalez",
+      "firm": "Telefónica SA",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Padmaja Chakravarty",
+      "firm": "Citigroup Global Markets",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Patrice S. Walch-Watson",
+      "firm": "Canadian Pension Plan Investment Board",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Patricia Afonso Fonseca",
+      "firm": "Novo Banco, S.A.",
+      "location": "Portugal",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Paul Gauron",
+      "firm": "New Balance Athletic Shoe, Inc",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Paul Lister",
+      "firm": "Associated British Foods plc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Paul McNicol",
+      "firm": "iHeartMedia",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Piergiuseppe Biandrino",
+      "firm": "Edison SpA",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Preeti Balwani",
+      "firm": "Hindustan Coca-Cola Beverages",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Qiao Gangliang",
+      "firm": "Danaher (Shanghai) Enterprise Management Limited",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Qiao Gangliang",
+      "firm": "Danaher (Shanghai) Enterprise Management Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Qing Nian",
+      "firm": "BeiGene, Ltd.",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "R Hewitt Pate",
+      "firm": "Chevron Corporation",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "R Stanton Dodge",
+      "firm": "Draftkings",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rachel Brand",
+      "firm": "Walmart",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rafik Mzah",
+      "firm": "Tuninvest-Africinvest",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rajagopal Venkatakrishnan",
+      "firm": "Reliance Jio Infocomm",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rajeev Uberoi",
+      "firm": "Infrastructure Development Finance Co. Ltd (IDFC)",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rakesh Prusti",
+      "firm": "Oyorooms.com",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rashida La Lande",
+      "firm": "Kraft Heinz Company",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Renata Hrnjak",
+      "firm": "Samsung Electronics Austria GmbH",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Renate Koch-Habenbacher",
+      "firm": "Raiffeisen Centrobank AG",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rhonda Powell",
+      "firm": "BuzzFeed",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Richard J B Price",
+      "firm": "Anglo American plc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Robert Kaukal",
+      "firm": "Raiffeisen Bank International",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Robert Pelkowski",
+      "firm": "PayPal",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Robert Rooney",
+      "firm": "Enbridge Inc",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Robert S Townsend",
+      "firm": "SoftBank Group Corp.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Roland Schreiner",
+      "firm": "ATOS Solution and Services GmbH",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Rosemary Martin",
+      "firm": "Vodafone Group Services Ltd",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Roswitha Stöllner",
+      "firm": "SPAR Austria Group",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Roy Papatheodorou",
+      "firm": "Novartis International",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Sabine Chalmers",
+      "firm": "BT Consumer",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Samer Abdelhaq",
+      "firm": "Abu Dhabi Department of Finance",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Samer Abdelhaq",
+      "firm": "Abu Dhabi Department of Finance",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Samir Kazi",
+      "firm": "Pfizer Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Santiago Martínez Garrido",
+      "firm": "Iberdrola SA",
+      "location": "Spain",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Scott S. Partridge",
+      "firm": "Bayer AG",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Sean Finn",
+      "firm": "Canadian National Railway Company",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Shalini Swaroop",
+      "firm": "Marin Clean Energy",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Sharon C Geraghty",
+      "firm": "Great West Lifeco Inc. ",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Shaun Johnson",
+      "firm": "Bee'ah",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Shihana Alazzaz",
+      "firm": "The Public Investment Fund (PIF)",
+      "location": "Saudi Arabia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Shinobu Obata",
+      "firm": "NEC Corporation",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Shuva Mandal",
+      "firm": "Anagram Partners",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Siddharth Rao",
+      "firm": "Sequoia Capital India Advisors Private Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Simon A Fish",
+      "firm": "BMO Financial Group (Bank of Montreal)",
+      "location": "Canada",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Simon A Fish",
+      "firm": "BMO Financial Group (Bank of Montreal)",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Simon Copleston",
+      "firm": "Emirates NBD Bank",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Simon Copleston",
+      "firm": "Emirates NBD Bank",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Song Liuping",
+      "firm": "Huawei Technologies Co. Ltd.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Stacey Friedman",
+      "firm": "JPMorgan Chase & Co.",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Stephanie Cheung",
+      "firm": "Melco Crown Entertainment",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Steve McManus",
+      "firm": "State Farm Insurance Companies",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Susanna Berger",
+      "firm": "KKR & Co (Kohlberg Kravis Roberts & Co)",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Tamara Maria Christ",
+      "firm": "Asfinag Service GmbH",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Tatsuya Morita",
+      "firm": "Sojitz Corporation",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Tatyana Sergeevna Kuznetsova",
+      "firm": "Novatek",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Thibault Delorme",
+      "firm": "Air Liquide",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Thomas Schobel",
+      "firm": "Siemens AG Austria",
+      "location": "Austria",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Timothy Steinert",
+      "firm": "Alibaba Group Services Limited",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Timothy Steinert",
+      "firm": "Alibaba Group Services Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Tom Wetterer",
+      "firm": "Greenpeace USA",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Tony West",
+      "firm": "Uber Technologies, Inc",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Ugo Di Stefano",
+      "firm": "LEXELLENT",
+      "location": "Italy",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Valery Sidnev",
+      "firm": "EuroChem Mineral and Chemical Company",
+      "location": "Russia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Victor S H Luk",
+      "firm": "Cheung Kong Infrastructure Holdings",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Victor Shen",
+      "firm": "Henkel (China) Investment Co., Limited",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Vidyut Gulati",
+      "firm": "Bharti Airtel Ltd",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Vinod Kaushal",
+      "firm": "PepsiCo Internacional México",
+      "location": "India",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Vuyo Kahla",
+      "firm": "SASOL",
+      "location": "Africa-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Wang Yan",
+      "firm": "iQIYI.com",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Weiwen Wang",
+      "firm": "InterContinental Hotels Group Greater China",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "William Deckelman",
+      "firm": "DXC Technology Company",
+      "location": "Global-wide",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "William Latza",
+      "firm": "Lemonade Group Inc.",
+      "location": "USA",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Yael Nevo",
+      "firm": "Israel Electric Corporation Ltd",
+      "location": "Israel",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Yannick Chalmé",
+      "firm": "L'Oréal SA",
+      "location": "France",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Yuichi Takano",
+      "firm": "Mitsui & Co.(Asia Pacific) Pte. Ltd.",
+      "location": "Japan",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Zahid Kamal",
+      "firm": "Fajr Capital",
+      "location": "United Arab Emirates",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Zarrar Mirza",
+      "firm": "HSBC Saudi Arabia",
+      "location": "Saudi Arabia",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Zhang Wei",
+      "firm": "Vanke",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Zhe Song",
+      "firm": "Meituan-Dianping",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    },
+    {
+      "name": "Zhixiang Liang",
+      "firm": "Baidu Inc.",
+      "location": "China",
+      "practice": "Most Influential GCs",
+      "history": {
+        "2019": "Band 1"
+      }
+    }
+  ],
+  "years": {
+    "2019": [
+      "Band 1"
+    ]
+  }
+}

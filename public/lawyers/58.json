@@ -1,0 +1,3577 @@
+{
+  "lawyers": [
+    {
+      "name": "Abby Stanglin",
+      "firm": "Nardello & Co. LLC",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Adam Gill",
+      "firm": "GLS Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Adam Gill",
+      "firm": "GLS Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Adam Goldberg",
+      "firm": "Trident DMG",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Adam Kaufmann",
+      "firm": "Lewis Baach Kaufmann Middlemiss PLLC",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Adrian Chopin",
+      "firm": "Bench Walk Advisors LLC",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Adrian Chopin",
+      "firm": "Bench Walk Advisors LLC",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Alan Bercow",
+      "firm": "Stephenson Harwood LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alex Jay",
+      "firm": "Stewarts",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alex Marine",
+      "firm": "Wallbrook",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Alex Nekrassov",
+      "firm": "New Century Media",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Alexander Nasr",
+      "firm": "Blackpeak",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Allan Ripp",
+      "firm": "Ripp Media",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Allison K Chock",
+      "firm": "Omni Bridgeway",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Almira Cemmell",
+      "firm": "FTI Consulting",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Amie Chang",
+      "firm": "Nardello & Co.",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Spotlight",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Andrew Durant",
+      "firm": "FTI Consulting",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andrew Frank",
+      "firm": "KARV Communications",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Andrew Grantham",
+      "firm": "AlixPartners",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andrew Langhoff",
+      "firm": "Red Bridges Advisors",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andrew McAulay",
+      "firm": "Clarion",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andrew Woltman",
+      "firm": "Statera Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Andrew Wordsworth",
+      "firm": "Raedas",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Andy Ellis",
+      "firm": "Practico Costs Lawyers",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Anil Virji",
+      "firm": "Civil and Commercial Costs Lawyers Ltd",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Anna Gumowska",
+      "firm": "K2 Integrity",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Annie Lespérance",
+      "firm": "Jus Mundi",
+      "location": "Latin America-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Anthony Riem",
+      "firm": "PCB Byrne",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Antony Dunkels",
+      "firm": "Brunswick Group",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Anup Misra",
+      "firm": "Curiam Capital LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Armando Betancor",
+      "firm": "Rockmond Litigation Funding Advisors",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Arthur Maltin",
+      "firm": "Maltin PR",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Arthur T. \"Ted' Farrell",
+      "firm": "Litigation Funding Advisers, LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ashish Prasad",
+      "firm": "HaystackID",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ashley Messick",
+      "firm": "GPW, a part of J.S. Held",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Aviva Will",
+      "firm": "Burford Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ayse Lowe",
+      "firm": "Bench Walk Advisors LLC",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ayse Lowe",
+      "firm": "Bench Walk Advisors LLC",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Ben Johnson",
+      "firm": "Berkeley Research Group",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ben Rowse",
+      "firm": "Nardello & Co. GK",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Bernard O'Sullivan",
+      "firm": "CMS",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Boaz Weinstein",
+      "firm": "Lake Whillans Capital Partners LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Bradley Koehler",
+      "firm": "Alvarez & Marsal",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Brandon Deme",
+      "firm": "Factor Risk Management",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Brandy Bergman",
+      "firm": "Reevemark",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Brian Stapleton",
+      "firm": "Berkeley Research Group",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 4",
+        "2021": "Band 4",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Bruno Vickers",
+      "firm": "GPW, a part of J.S. Held",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Carrie Leonard",
+      "firm": "Orchard Global Asset Management",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Cathy Fetgatter",
+      "firm": "Innovative Driven",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Charles M Agee",
+      "firm": "Westfleet Advisors",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Charlie Morris",
+      "firm": "Woodsford",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 4",
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Charlie Potter",
+      "firm": "Brunswick Group",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Chip Hodgkins",
+      "firm": "Statera Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Chris Osborne",
+      "firm": "FRP Advisory Trading Limited",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Christopher Bogart",
+      "firm": "Burford Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Christopher DeLise",
+      "firm": "Delta Capital Partners Management LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Christopher Garvey",
+      "firm": "Sachenga & Co",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Claire Davidson",
+      "firm": "DRD Partnership",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Clive Bowman",
+      "firm": "Omni Bridgeway",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Clive Petty",
+      "firm": "Clarendon Associates",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Conal Walsh",
+      "firm": "Palatine Communications",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Craig Arnott",
+      "firm": "Burford Capital",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Craig Pollack",
+      "firm": "Covington & Burling LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Crispin Rapinet",
+      "firm": "Hogan Lovells",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "César Cervera Cantón",
+      "firm": "Rockmond Litigation Funding Advisors",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Dai Wai Chin Feman",
+      "firm": "Parabellum Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Daniel Gold",
+      "firm": "BDO International BV",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Daniel Hall",
+      "firm": "Burford Capital",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Daniel Nardello",
+      "firm": "Nardello & Co.",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Daniel Regard",
+      "firm": "iDiscovery Solutions, Inc.",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Darren Matthews",
+      "firm": "K2 Integrity",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "David Gallagher",
+      "firm": "The Litigation Fund",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "David Lawler",
+      "firm": "Kroll, a division of Duff & Phelps",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 2",
+        "2021": "",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "David Poston",
+      "firm": "Poston Communications",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "David Rigg",
+      "firm": "Project Associates",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "David Spiegel",
+      "firm": "GLS Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "David Stern",
+      "firm": "StoneTurn",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Desiree Maghoo",
+      "firm": "Questor Consulting",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Dorothy Baker",
+      "firm": "Quinlan Partners",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Edward H Davis Jr",
+      "firm": "Sequor Law",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Edward Palmer",
+      "firm": "Greyhawk Intelligence Group",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Edward Yell",
+      "firm": "Litica",
+      "location": "UK-wide",
+      "practice": "Litigation Insurance Underwriters",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ellen Davis",
+      "firm": "August Strategic Communications",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ellen Moskowitz",
+      "firm": "Brunswick Group",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Emmanuel Kaspereit",
+      "firm": "Archipel",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Eric Blinderman",
+      "firm": "Therium Capital Management",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Eric Lewis",
+      "firm": "Lewis Baach Kaufmann Middlemiss PLLC",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Eric Mandel",
+      "firm": "Innovative Driven",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Eric Schwarz",
+      "firm": "EY",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Fernando Folgueiro",
+      "firm": "Qanlex",
+      "location": "Latin America-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Gary Miller",
+      "firm": "Mishcon de Reya LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Geoff Moysa",
+      "firm": "Omni Bridgeway",
+      "location": "Nationwide - Canada",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "George Sard",
+      "firm": "FGS Global",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Senior Statespeople",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "George Socha",
+      "firm": "Reveal-Brainspace",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Gervase MacGregor",
+      "firm": "BDO LLP",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Gian Kull",
+      "firm": "Multiplicity Partners AG",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Gina Rubel",
+      "firm": "Furia Rubel Communications, Inc.",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Glenn Newberry",
+      "firm": "Eversheds Sutherland",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Goran Maksimovic",
+      "firm": "The Risk Advisory Group",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Greg Hallahan",
+      "firm": "FTI Consulting",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Gretchen King",
+      "firm": "Vantage Intelligence",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Guido Demarco",
+      "firm": "Stonward",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Guido Demarco",
+      "firm": "Stonward",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Gus Sellitto",
+      "firm": "Byfield Consultancy",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Harshiv Thakerar",
+      "firm": "Asertis",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Howard Dean",
+      "firm": "Keoghs LLP",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Howard Master",
+      "firm": "Nardello & Co.",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Howard Shams",
+      "firm": "Parabellum Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Hugh Burns",
+      "firm": "Reevemark",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Iain Stark",
+      "firm": "Weightmans",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ian Casewell",
+      "firm": "Mintz Group",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ian Casewell",
+      "firm": "Mintz Group",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ian Hargreaves",
+      "firm": "Covington & Burling LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Ian Madej",
+      "firm": "Asertis",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Ignacio Delgado Larena-Avellaneda",
+      "firm": "Legisfund",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Isabelle Berger",
+      "firm": "Nivalion AG",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jack Neumark",
+      "firm": "Fortress Investment Group, LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jacques-Alexandre Genet",
+      "firm": "Archipel",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "James F Haggerty",
+      "firm": "PRCG Haggerty",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "James Lynch",
+      "firm": "Maltin PR",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "James Popperwell",
+      "firm": "Macfarlanes LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jamie Brown",
+      "firm": "Lighthouse",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jamie Diaferia",
+      "firm": "Infinite Global",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jane Colston",
+      "firm": "Brown Rudnick LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jarrett Wolf",
+      "firm": "Wolf Global",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jeff Klazen",
+      "firm": "Kobre & Kim",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jeffrey Cramer",
+      "firm": "Berkeley Research Group, LLC",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jeremy Garson",
+      "firm": "Herbert Smith Freehills",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Jeremy Marshall",
+      "firm": "Omni Bridgeway",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 4",
+        "2021": "Band 4",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Jessica Pyman",
+      "firm": "Control Risks",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jim Mintz",
+      "firm": "Mintz Group",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "Joana Rego",
+      "firm": "Raedas",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joana Rego",
+      "firm": "Raedas",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Joe Hancock",
+      "firm": "Mishcon de Reya LLP",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "John Walker",
+      "firm": "CASL",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jon Dodge",
+      "firm": "FRP Advisory Trading Limited",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jonathan Hawker",
+      "firm": "Slate Campaigns",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Jonathan Shaw",
+      "firm": "Clyde & Co LLP",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Joseph Hesketh",
+      "firm": "Project Associates",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Up and Coming"
+      }
+    },
+    {
+      "name": "Joshua P. Galper",
+      "firm": "Trident DMG",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Juliet Young",
+      "firm": "Schillings",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jurriaan Braat",
+      "firm": "Omni Bridgeway",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jurriaan Braat",
+      "firm": "Omni Bridgeway",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Jörn Eschment",
+      "firm": "Burford Capital",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Kate Miller",
+      "firm": "DRD Partnership",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Katharine A Wolanyk",
+      "firm": "Burford Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Keith Oliver",
+      "firm": "Peters & Peters Solicitors LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Kevin Hellard",
+      "firm": "Grant Thornton UK",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Lanny Davis",
+      "firm": "Trident DMG",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Senior Statespeople",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "Lawrence Dore",
+      "firm": "DRD Partnership",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Lily Kennett",
+      "firm": "Schillings",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 4",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Lincoln Caylor",
+      "firm": "Bennett Jones LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Lorna Van Oss",
+      "firm": "Control Risks",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Louis Young",
+      "firm": "Augusta Ventures",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Luke Steadman",
+      "firm": "Alvarez & Marsal",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Marcus Fishburn",
+      "firm": "S-RM",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Marcus Fishburn",
+      "firm": "S-RM",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mark Biggs",
+      "firm": "Eminent Crisis Management Group",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Mark Kindy",
+      "firm": "Alvarez & Marsal",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mark King",
+      "firm": "Harbour Litigation Funding Limited",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Marla Decker",
+      "firm": "Lake Whillans Capital Partners LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Maros Kravec",
+      "firm": "LitFin",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Martin  S Kenney",
+      "firm": "Martin Kenney & Co. Solicitors",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Martin S Kenney",
+      "firm": "Martin Kenney & Co. Solicitors",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Martin Stone",
+      "firm": "Nardello & Co",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Masha Shvetsova",
+      "firm": "Vantage Intelligence",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matt Lee",
+      "firm": "Burford Capital",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Matt Taylor",
+      "firm": "K2 Integrity",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Matthew Amey",
+      "firm": "TheJudge",
+      "location": "UK-wide",
+      "practice": "Litigation Insurance Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Matthew Amey",
+      "firm": "TheJudge",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Matthew Cohen",
+      "firm": "AlixPartners",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Matthew Harman",
+      "firm": "Harmans",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Maureen Ward",
+      "firm": "Bennett Jones LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Megan Paquin",
+      "firm": "Poston Communications",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Melanie Riley",
+      "firm": "Bell Yard",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mena Halton",
+      "firm": "Manolete Partners PLC",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Insolvency",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mena Halton",
+      "firm": "Manolete Partners PLC",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Michael A. Nicolas",
+      "firm": "Longford Capital Management",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Michael Evans",
+      "firm": "Byfield Consultancy",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Michael Gulliford",
+      "firm": "Soryn IP Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Michael J Ramos",
+      "firm": "Nardello & Co.",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Michael Redman",
+      "firm": "Burford Capital",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Michael S Kim",
+      "firm": "Kobre & Kim",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Michael Sitrick",
+      "firm": "Sitrick and Company",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Senior Statespeople",
+        "2023": "Senior Statespeople"
+      }
+    },
+    {
+      "name": "Michael Tyler",
+      "firm": "Kingsley Napley LLP",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Michael Will",
+      "firm": "ESI LABORATORY, LLC",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Mick Smith",
+      "firm": "Burford Capital",
+      "location": "Europe-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mohsin Patel",
+      "firm": "Factor Risk Management",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Molly Levinson",
+      "firm": "The Levinson Group",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Mona Vaswani",
+      "firm": "Milbank LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Monica Smith",
+      "firm": "Poston Communications",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Myron Marlin",
+      "firm": "FTI Consulting, Inc",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Naomi Loewith",
+      "firm": "Omni Bridgeway",
+      "location": "Nationwide - Canada",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Neil Ashton",
+      "firm": "StoneTurn",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Neil McLeod",
+      "firm": "The PHA Group",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Neil Purslow",
+      "firm": "Therium Capital Management Limited",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Nicholas Blank",
+      "firm": "Nardello & Co.",
+      "location": "Asia-Pacific Region",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Nicholas Bortman",
+      "firm": "Raedas",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Nicholas Bortman",
+      "firm": "Raedas",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Nicholas Connon",
+      "firm": "Quintel Intelligence Ltd",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Nicholas Lee",
+      "firm": "Paragon Costs Solutions",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Nicholas Peck",
+      "firm": "Nardello & Co.",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "Spotlight Table",
+        "2022": "Spotlight",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Nick Marsh",
+      "firm": "Quinn Emanuel Urquhart & Sullivan, LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Nick Rowles-Davies",
+      "firm": "Litigation Capital Management",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Nickolas Tzoulas",
+      "firm": "Omni Bridgeway",
+      "location": "Nationwide - Canada",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Nicola Boulton",
+      "firm": "PCB Byrne",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Nikos Asimakopoulos",
+      "firm": "Alaco",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Nikos Asimakopoulos",
+      "firm": "Alaco",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Patrick Kelkar",
+      "firm": "The Risk Advisory Group",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Paul Caminiti",
+      "firm": "Reevemark",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Paul Holmes",
+      "firm": "FGS Global",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Paul McVoy",
+      "firm": "Meta-e Discovery LLC",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Paul Rand",
+      "firm": "Omni Bridgeway",
+      "location": "Nationwide - Canada",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Paul Seddon",
+      "firm": "Seddon Costs Law",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Peggy Daley",
+      "firm": "Charles River Associates",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Peter Barrett",
+      "firm": "Powerscourt Group",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Peter Nolan",
+      "firm": "Charles River Associates",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Peter Pender Cudlip",
+      "firm": "J.S. Held",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Phil Hall",
+      "firm": "The PHA Group",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Philip Daval-Bowden",
+      "firm": "Masters Legal Costs Services",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Philip Favro",
+      "firm": "Innovative Driven",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Philip Hall",
+      "firm": "Portland",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Philip Henderson",
+      "firm": "Henderson & Jones Limited",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Insolvency",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Pierre-Jérome Bouchard",
+      "firm": "Omni Bridgeway",
+      "location": "Nationwide - Canada",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Priya Grigoriadis",
+      "firm": "Stephenson Harwood LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Associates to watch"
+      }
+    },
+    {
+      "name": "Ralph Sutton",
+      "firm": "Validity Finance LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ramon Ghosh",
+      "firm": "Control Risks",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Rebecca Berrebi",
+      "firm": "Avenue 33, LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Rhymal Persad",
+      "firm": "Mishcon de Reya LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Risa Heller",
+      "firm": "Risa Heller Communications",
+      "location": "USA - Nationwide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Rob Mindell",
+      "firm": "FTI Consulting, Inc",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Robert Capper",
+      "firm": "Ankura Consulting Group",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Robert Rothkopf",
+      "firm": "Balance Legal Capital",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Robert Weigel",
+      "firm": "Gibson, Dunn & Crutcher LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Robert Weigel",
+      "firm": "Gibson, Dunn & Crutcher LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Robert Wynn Jones",
+      "firm": "Mishcon de Reya LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Robin Davis",
+      "firm": "Woodsford",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Rocco Pirozzolo",
+      "firm": "Harbour Underwriting",
+      "location": "UK-wide",
+      "practice": "Litigation Insurance Underwriters",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Roger Dugan",
+      "firm": "Asertis",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Insolvency",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Roger Milburn",
+      "firm": "Litigation Capital Management",
+      "location": "South-East Asia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ros Prince",
+      "firm": "Stephenson Harwood LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Rosie Ioannou",
+      "firm": "Vannin Capital",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Russell J Genet",
+      "firm": "Longford Capital Management",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Ruth Stackpool-Moore",
+      "firm": "Omni Bridgeway",
+      "location": "South-East Asia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Ryan McSharry",
+      "firm": "Infinite Global",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sabina Menschel",
+      "firm": "Nardello & Co.",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sam Hayman",
+      "firm": "Bolt Burdon Kemp LLP",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Spotlight Table",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sam Woodcock",
+      "firm": "CT Group",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Sandrine Giroud",
+      "firm": "Lalive",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sarah Keeling",
+      "firm": "StoneTurn",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sarah Tsou",
+      "firm": "Omni Bridgeway",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Saverio Lembo",
+      "firm": "Bär & Karrer Ltd",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sean Thompson",
+      "firm": "Parabellum Capital",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding: Intellectual Property",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Sebastian Neave",
+      "firm": "GPW, a part of J.S. Held",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Septimus Knox",
+      "firm": "S-RM",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 4",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Simon Burnett",
+      "firm": "Balance Legal Capital",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Simon Cuerden",
+      "firm": "Deloitte LLP",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Simon Dluzniak",
+      "firm": "Therium Capital",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Simon Pugh",
+      "firm": "Portland",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Sion Richards",
+      "firm": "Jones Day",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Snezana Gebauer",
+      "firm": "StoneTurn Group, LLP",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Snezana Gebauer",
+      "firm": "StoneTurn Group, LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stephanie Glover",
+      "firm": "Edelman",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Stephanie Kaye",
+      "firm": "Clarion",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Stephen Baker",
+      "firm": "Baker & Partners",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stephen O'Dowd",
+      "firm": "Harbour Litigation Funding Limited",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Steve Ruffle",
+      "firm": "Litica",
+      "location": "UK-wide",
+      "practice": "Litigation Insurance Underwriters",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Steve Spiegelhalter",
+      "firm": "Alvarez & Marsal",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Steven Friel",
+      "firm": "Woodsford",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Steven Green",
+      "firm": "Irwin Mitchell",
+      "location": "UK-wide",
+      "practice": "Costs Lawyers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Steven Haynes",
+      "firm": "Greyhawk Intelligence Group",
+      "location": "UK-wide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 4"
+      }
+    },
+    {
+      "name": "Stuart Grant",
+      "firm": "Bench Walk Advisors LLC",
+      "location": "USA - Nationwide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Stéphane Bonifassi",
+      "firm": "Bonifassi Avocats",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Sue Thackeray",
+      "firm": "Kingsley Napley LLP",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Susan Dunn",
+      "firm": "Harbour Litigation Funding Limited",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 1",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Susanna Taylor",
+      "firm": "Litigation Capital Management",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tania Sulan",
+      "firm": "Omni Bridgeway",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Tara S. Emory",
+      "firm": "Redgrave Data LLC",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tets Ishikawa",
+      "firm": "LionFish Litigation Finance",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 4",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Thomas Feeney",
+      "firm": "Nardello & Co.",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Thomas Rodwell",
+      "firm": "Rodwell Disputes Advisory",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tim Maltin",
+      "firm": "Maltin PR",
+      "location": "UK-wide",
+      "practice": "Litigation PR & Communications",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tim Roberts",
+      "firm": "The Risk Advisory Group",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Investigations Agencies)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Timothy Mayer",
+      "firm": "Litigation Capital Management",
+      "location": "UK-wide",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Toby Duthie",
+      "firm": "Forensic Risk Alliance",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 2",
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tom Davey",
+      "firm": "Factor Risk Management",
+      "location": "UK-wide",
+      "practice": "Litigation Funding: Brokers",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tom Glasgow",
+      "firm": "Omni Bridgeway",
+      "location": "South-East Asia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "Tom McDonald",
+      "firm": "Vannin Capital",
+      "location": "Australia",
+      "practice": "Litigation Funding",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Tony Lewis",
+      "firm": "Fieldfisher",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "Band 2",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Trevor Mascarenhas",
+      "firm": "PCB Byrne",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "",
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "name": "Tyler Maroney",
+      "firm": "QRI",
+      "location": "USA - Nationwide",
+      "practice": "Business Intelligence & Investigations",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "name": "Warren G Kruse II",
+      "firm": "UnitedLex",
+      "location": "USA - Nationwide",
+      "practice": "eDiscovery",
+      "history": {
+        "2020": "Band 3",
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Will Davies",
+      "firm": "Grant Thornton UK LLP",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "name": "William Davies",
+      "firm": "Grant Thornton UK LLP",
+      "location": "UK-wide",
+      "practice": "Forensic Accountants",
+      "history": {
+        "2020": "Band 1",
+        "2021": "",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "name": "Yves Klein",
+      "firm": "MONFRINI BITTON KLEIN",
+      "location": "Global-wide",
+      "practice": "Asset Tracing & Recovery (Law Firms)",
+      "history": {
+        "2020": "Spotlight Table",
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    }
+  ],
+  "years": {
+    "2020": [
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Spotlight Table"
+    ],
+    "2021": [
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Spotlight Table"
+    ],
+    "2022": [
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Senior Statespeople",
+      "Spotlight"
+    ],
+    "2023": [
+      "Associates to watch",
+      "Band 1",
+      "Band 2",
+      "Band 3",
+      "Band 4",
+      "Senior Statespeople",
+      "Up and Coming"
+    ]
+  }
+}

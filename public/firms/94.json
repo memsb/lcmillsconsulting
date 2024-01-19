@@ -1,0 +1,1143 @@
+{
+  "firms": [
+    {
+      "id": 23239653,
+      "firm": "AMBAR",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23239653,
+      "firm": "AMBAR",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23241598,
+      "firm": "Abroading",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 412,
+      "firm": "Addleshaw Goddard LLP",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 412,
+      "firm": "Addleshaw Goddard LLP",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23235373,
+      "firm": "Advanced Delivery and Solutions (Allen & Overy)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22853093,
+      "firm": "Afiens",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 7,
+      "firm": "Allen & Overy LLP",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 3589,
+      "firm": "Allens",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23226386,
+      "firm": "Ashurst Advance (Ashurst)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23355101,
+      "firm": "Attolon Law",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22606112,
+      "firm": "Axiom Law",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22606112,
+      "firm": "Axiom Law",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 100004720,
+      "firm": "BCLP Cubed (Bryan Cave Leighton Paisner)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004717,
+      "firm": "CPA Global",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 22869627,
+      "firm": "Cenza",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23008223,
+      "firm": "Cobra Legal Solutions",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 22780920,
+      "firm": "Cognia Law",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22780920,
+      "firm": "Cognia Law",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22780920,
+      "firm": "Cognia Law",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23226389,
+      "firm": "Condor ALS (Fieldfisher)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22781353,
+      "firm": "D2 Legal Technology LLP",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23147812,
+      "firm": "DRS Alternative Legal Solutions",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004716,
+      "firm": "DWF Mindcrest (DWF)",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004716,
+      "firm": "DWF Mindcrest (DWF)",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004716,
+      "firm": "DWF Mindcrest (DWF)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 25191,
+      "firm": "Deloitte",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 25191,
+      "firm": "Deloitte",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 22980700,
+      "firm": "EY",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22980700,
+      "firm": "EY",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 22799429,
+      "firm": "Elevate",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22799429,
+      "firm": "Elevate",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22799429,
+      "firm": "Elevate",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22799429,
+      "firm": "Elevate",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 81524,
+      "firm": "Epiq",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22747382,
+      "firm": "Exigent Group",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 100004721,
+      "firm": "FLEX by Fenwick (Fenwick & West)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 2606,
+      "firm": "FLEX by Fenwick (Fenwick)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 2606,
+      "firm": "FLEX by Fenwick (Fenwick)",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23305061,
+      "firm": "Factor",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23226439,
+      "firm": "GravityStack (Reed Smith)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 189,
+      "firm": "Herbert Smith Freehills",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 3",
+        "2022": "Band 3",
+        "2023": ""
+      }
+    },
+    {
+      "id": 189,
+      "firm": "Herbert Smith Freehills",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 189,
+      "firm": "Herbert Smith Freehills",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "id": 189,
+      "firm": "Herbert Smith Freehills",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 23530575,
+      "firm": "Herbert Smith Freehills LLP",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23530575,
+      "firm": "Herbert Smith Freehills LLP",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23530575,
+      "firm": "Herbert Smith Freehills LLP",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23530575,
+      "firm": "Herbert Smith Freehills LLP",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 238886,
+      "firm": "Integreon",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 238886,
+      "firm": "Integreon",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 238886,
+      "firm": "Integreon",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23184495,
+      "firm": "KPMG",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 2585,
+      "firm": "KPMG Abogados",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 79527,
+      "firm": "KPMG International",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 79527,
+      "firm": "KPMG International",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 79527,
+      "firm": "KPMG International",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 79527,
+      "firm": "KPMG International",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22926912,
+      "firm": "Kalexius",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23226445,
+      "firm": "Konexo (Eversheds Sutherland)",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23226445,
+      "firm": "Konexo (Eversheds Sutherland)",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23226445,
+      "firm": "Konexo (Eversheds Sutherland)",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23226445,
+      "firm": "Konexo (Eversheds Sutherland)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23124974,
+      "firm": "KorumLegal",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23124974,
+      "firm": "KorumLegal",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 22872034,
+      "firm": "LOD",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22958099,
+      "firm": "Latitude Legal",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23088497,
+      "firm": "LawFlex",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 23284483,
+      "firm": "Lawyers for Projects",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23106918,
+      "firm": "Legal Army",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22611710,
+      "firm": "LegalBase",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22972952,
+      "firm": "Lighthouse Law",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 238862,
+      "firm": "Mindcrest",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 238862,
+      "firm": "Mindcrest",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 238862,
+      "firm": "Mindcrest",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22882520,
+      "firm": "Morae Global",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23373353,
+      "firm": "NOVA8",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 22568209,
+      "firm": "Obelisk Legal Support",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23233072,
+      "firm": "Peerpoint (Allen & Overy)",
+      "location": "Asia-Pacific Region",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 23233072,
+      "firm": "Peerpoint (Allen & Overy)",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 31,
+      "firm": "Pinsent Masons",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 31,
+      "firm": "Pinsent Masons",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 100004319,
+      "firm": "PricewaterhouseCoopers LLP",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004319,
+      "firm": "PricewaterhouseCoopers LLP",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004319,
+      "firm": "PricewaterhouseCoopers LLP",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 497,
+      "firm": "PwC Legal Business Solutions",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 497,
+      "firm": "PwC Legal Business Solutions",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 497,
+      "firm": "PwC Legal Business Solutions",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "Band 3",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 238866,
+      "firm": "QuisLex",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 238866,
+      "firm": "QuisLex",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 343111,
+      "firm": "Radiant Law",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 3"
+      }
+    },
+    {
+      "id": 23226451,
+      "firm": "Re:link (Linklaters)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 2",
+        "2022": "Band 2",
+        "2023": ""
+      }
+    },
+    {
+      "id": 23226451,
+      "firm": "Re:link (Linklaters)",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 100004722,
+      "firm": "Recurve (Greenberg Traurig)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 23405195,
+      "firm": "Redgrave Data LLC",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 2444,
+      "firm": "Robins Kaplan LLP",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "",
+        "2022": "",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 22958388,
+      "firm": "Samaniego Law",
+      "location": "Spain",
+      "practice": "Alternative Legal Service Providers",
+      "history": {
+        "2021": "",
+        "2022": "Band 2",
+        "2023": "Band 2"
+      }
+    },
+    {
+      "id": 100004723,
+      "firm": "SixFifty (Wilson Sonsini)",
+      "location": "Global-wide",
+      "practice": "Law Firm LPO",
+      "history": {
+        "2021": "Band 2",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 100004719,
+      "firm": "Special Counsel, Inc",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 3",
+        "2022": "",
+        "2023": ""
+      }
+    },
+    {
+      "id": 238898,
+      "firm": "UnitedLex",
+      "location": "Global-wide",
+      "practice": "Contract Lifecycle Management",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": ""
+      }
+    },
+    {
+      "id": 238898,
+      "firm": "UnitedLex",
+      "location": "Global-wide",
+      "practice": "Litigation Services",
+      "history": {
+        "2021": "Band 1",
+        "2022": "Band 1",
+        "2023": "Band 1"
+      }
+    },
+    {
+      "id": 100004718,
+      "firm": "VARIO (Pinsent Masons)",
+      "location": "Global-wide",
+      "practice": "Flexible Legal Staffing",
+      "history": {
+        "2021": "Band 1",
+        "2022": "",
+        "2023": ""
+      }
+    }
+  ],
+  "years": {
+    "2021": [
+      "Band 1",
+      "Band 2",
+      "Band 3"
+    ],
+    "2022": [
+      "Band 1",
+      "Band 2",
+      "Band 3"
+    ],
+    "2023": [
+      "Band 1",
+      "Band 2",
+      "Band 3"
+    ]
+  }
+}
